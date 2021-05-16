@@ -4,19 +4,11 @@ import javafx.application.Application;
 
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-
 import javafx.scene.chart.LineChart;
 import javafx.scene.chart.NumberAxis;
 import javafx.scene.chart.XYChart;
-import org.w3c.dom.Document;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import java.io.File;
-import java.io.OutputStreamWriter;
-import java.io.PrintWriter;
 
-import static sun.tools.serialver.SerialVer.usage;
 
 
 public class Main extends Application {
@@ -49,43 +41,16 @@ public class Main extends Application {
     }
 
 
-    public static void main(String[] args) throws Exception {
-        String filename = null;
-        boolean dtdValidate = false;
-        boolean xsdValidate = false;
-        String schemaSource = null;
+        public static void main(String[] args)  {
 
-        for (int i = 0; i < args.length; i++) {
-            if (args[i].equals("-dtd"))  {
-                dtdValidate = true;
-            }
-            else if (args[i].equals("-xsd")) {
-                xsdValidate = true;
-            }
-            else if (args[i].equals("-xsdss")) {
-                if (i == args.length - 1) {
-                    usage();
-                }
-                xsdValidate = true;
-                schemaSource = args[++i];
-            }
-            else {
-                filename = args[i];
-                if (i != args.length - 1) {
-                    usage();
-                }
-            }
+             ParseTxt brandValues=new ParseTxt();
+
+             brandValues.openFile();
+             brandValues.readFile();
+             brandValues.closeFile();
         }
 
-        if (filename == null) {
-            usage();
-        }
-        DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 
-        dbf.setNamespaceAware(true);
-        dbf.setValidating(dtdValidate || xsdValidate);
-
-        DocumentBuilder db = dbf.newDocumentBuilder();
-        Document doc = db.parse(new File("country_populations.xml"));
     }
-}
+
+

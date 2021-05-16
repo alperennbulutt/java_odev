@@ -4,6 +4,7 @@ module java.odev {
     requires javafx.fxml;
     requires java.xml;
     requires jdk.compiler;
+    requires javafx.swt;
 
     opens sample;
 }
