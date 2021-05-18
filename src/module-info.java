@@ -6,5 +6,6 @@ module java.odev {
     requires jdk.compiler;
     requires javafx.swt;
 
-    opens sample;
+
+    opens sample to javafx.graphics;
 }

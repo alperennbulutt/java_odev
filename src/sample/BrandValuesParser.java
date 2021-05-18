@@ -4,11 +4,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class ParseTxt {
+public class BrandValuesParser {
 
     Scanner scanner;
 
-    public void openFile(){
+    public void openFileBrand(){
         try {
             scanner=new Scanner(new File("brand_values.txt"));
         } catch (FileNotFoundException e) {
@@ -18,22 +18,22 @@ public class ParseTxt {
 
     }
 
-    public void readFile(){
-        while (scanner.hasNext()){
+    public void readFileBrand(){
+        while (scanner.hasNextLine()){
 
-            int date= Integer.parseInt(scanner.next());
+            String date= scanner.next();
             String brand=scanner.next();
             String country=scanner.next();
-            int value= Integer.parseInt(scanner.next());
+            String value= scanner.next();
             String department=scanner.next();
 
-            System.out.println(date + " "+  brand + " " + country +" " + value +" " +department);
+            System.out.println(date + "  " + brand + "  " + country + "  " +  value + "  " + department);
 
         }
 
     }
 
-    public void closeFile(){
+    public void closeFileBrand(){
         scanner.close();
 
     }

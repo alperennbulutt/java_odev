@@ -22109,4 +22109,3 @@ Value ($ million)
 2018-01-01,Visa,United States,9021,Financial Services
 2018-01-01,Volkswagen,Germany,12201,Automotive
 2018-01-01,Zara,Spain,17712,Apparel
-
