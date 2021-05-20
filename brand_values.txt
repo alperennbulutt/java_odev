@@ -1,10 +1,6 @@
-World's most valuable brands from 2000 to 2018
-Value ($ million)
-
-75
 2000-01-01,adidas,Germany,3791,Sporting Goods
 2000-01-01,Amazon,United States,4528,Retail
-2000-01-01,American Express,United States,16122,Financial Services
+2000-01-01,AmericanExpress,United States,16122,Financial Services
 2000-01-01,AOL,United States,4531,Media
 2000-01-01,Apple,United States,6594,Technology
 2000-01-01,Armani,Italy,1456,Luxury
@@ -77,8 +73,6 @@ Value ($ million)
 2000-01-01,Wrigley,United States,4324,Fast-Moving Consumer Goods
 2000-01-01,Xerox,United States,9699,Business Services
 2000-01-01,Yahoo!,United States,6299,Media
-
-100
 2000-02-01,Absolut,Sweden,1378,Alcohol
 2000-02-01,adidas,Germany,3779,Sporting Goods
 2000-02-01,Amazon,United States,4412,Retail
@@ -179,8 +173,6 @@ Value ($ million)
 2000-02-01,Wrigley,United States,4341,Fast-Moving Consumer Goods
 2000-02-01,Xerox,United States,9392,Business Services
 2000-02-01,Yahoo!,United States,6139,Media
-
-100
 2000-03-01,Absolut,Sweden,1378,Alcohol
 2000-03-01,adidas,Germany,3768,Sporting Goods
 2000-03-01,Amazon,United States,4295,Retail
@@ -281,8 +273,6 @@ Value ($ million)
 2000-03-01,Wrigley,United States,4358,Fast-Moving Consumer Goods
 2000-03-01,Xerox,United States,9086,Business Services
 2000-03-01,Yahoo!,United States,5979,Media
-
-100
 2000-04-01,Absolut,Sweden,1378,Alcohol
 2000-04-01,adidas,Germany,3756,Sporting Goods
 2000-04-01,Amazon,United States,4179,Retail
@@ -383,8 +373,6 @@ Value ($ million)
 2000-04-01,Wrigley,United States,4375,Fast-Moving Consumer Goods
 2000-04-01,Xerox,United States,8779,Business Services
 2000-04-01,Yahoo!,United States,5819,Media
-
-100
 2000-05-01,Absolut,Sweden,1378,Alcohol
 2000-05-01,adidas,Germany,3744,Sporting Goods
 2000-05-01,Amazon,United States,4062,Retail
@@ -485,8 +473,6 @@ Value ($ million)
 2000-05-01,Wrigley,United States,4393,Fast-Moving Consumer Goods
 2000-05-01,Xerox,United States,8472,Business Services
 2000-05-01,Yahoo!,United States,5659,Media
-
-100
 2000-06-01,Absolut,Sweden,1378,Alcohol
 2000-06-01,adidas,Germany,3732,Sporting Goods
 2000-06-01,Amazon,United States,3946,Retail
@@ -587,8 +573,6 @@ Value ($ million)
 2000-06-01,Wrigley,United States,4410,Fast-Moving Consumer Goods
 2000-06-01,Xerox,United States,8166,Business Services
 2000-06-01,Yahoo!,United States,5499,Media
-
-100
 2000-07-01,Absolut,Sweden,1378,Alcohol
 2000-07-01,adidas,Germany,3721,Sporting Goods
 2000-07-01,Amazon,United States,3829,Retail
@@ -689,8 +673,6 @@ Value ($ million)
 2000-07-01,Wrigley,United States,4427,Fast-Moving Consumer Goods
 2000-07-01,Xerox,United States,7859,Business Services
 2000-07-01,Yahoo!,United States,5339,Media
-
-100
 2000-08-01,Absolut,Sweden,1378,Alcohol
 2000-08-01,adidas,Germany,3709,Sporting Goods
 2000-08-01,Amazon,United States,3713,Retail
@@ -791,8 +773,6 @@ Value ($ million)
 2000-08-01,Wrigley,United States,4444,Fast-Moving Consumer Goods
 2000-08-01,Xerox,United States,7552,Business Services
 2000-08-01,Yahoo!,United States,5178,Media
-
-100
 2000-09-01,Absolut,Sweden,1378,Alcohol
 2000-09-01,adidas,Germany,3697,Sporting Goods
 2000-09-01,Amazon,United States,3596,Retail
@@ -893,8 +873,6 @@ Value ($ million)
 2000-09-01,Wrigley,United States,4461,Fast-Moving Consumer Goods
 2000-09-01,Xerox,United States,7246,Business Services
 2000-09-01,Yahoo!,United States,5018,Media
-
-100
 2000-10-01,Absolut,Sweden,1378,Alcohol
 2000-10-01,adidas,Germany,3685,Sporting Goods
 2000-10-01,Amazon,United States,3480,Retail
@@ -995,8 +973,6 @@ Value ($ million)
 2000-10-01,Wrigley,United States,4478,Fast-Moving Consumer Goods
 2000-10-01,Xerox,United States,6939,Business Services
 2000-10-01,Yahoo!,United States,4858,Media
-
-100
 2000-11-01,Absolut,Sweden,1378,Alcohol
 2000-11-01,adidas,Germany,3674,Sporting Goods
 2000-11-01,Amazon,United States,3363,Retail
@@ -1097,8 +1073,6 @@ Value ($ million)
 2000-11-01,Wrigley,United States,4496,Fast-Moving Consumer Goods
 2000-11-01,Xerox,United States,6632,Business Services
 2000-11-01,Yahoo!,United States,4698,Media
-
-100
 2000-12-01,Absolut,Sweden,1378,Alcohol
 2000-12-01,adidas,Germany,3662,Sporting Goods
 2000-12-01,Amazon,United States,3247,Retail
@@ -1199,8 +1173,6 @@ Value ($ million)
 2000-12-01,Wrigley,United States,4513,Fast-Moving Consumer Goods
 2000-12-01,Xerox,United States,6326,Business Services
 2000-12-01,Yahoo!,United States,4538,Media
-
-100
 2001-01-01,Absolut,Sweden,1378,Alcohol
 2001-01-01,adidas,Germany,3650,Sporting Goods
 2001-01-01,Amazon,United States,3130,Retail
@@ -1301,8 +1273,6 @@ Value ($ million)
 2001-01-01,Wrigley,United States,4530,Fast-Moving Consumer Goods
 2001-01-01,Xerox,United States,6019,Business Services
 2001-01-01,Yahoo!,United States,4378,Media
-
-100
 2001-02-01,3M,United States,1579,Diversified
 2001-02-01,Accenture,United States,5182,Business Services
 2001-02-01,adidas,Germany,3653,Sporting Goods
@@ -1403,8 +1373,6 @@ Value ($ million)
 2001-02-01,Wrigley,United States,4548,Fast-Moving Consumer Goods
 2001-02-01,Xerox,United States,5960,Business Services
 2001-02-01,Yahoo!,United States,4334,Media
-
-100
 2001-03-01,3M,United States,1579,Diversified
 2001-03-01,Accenture,United States,5182,Business Services
 2001-03-01,adidas,Germany,3657,Sporting Goods
@@ -1505,8 +1473,6 @@ Value ($ million)
 2001-03-01,Wrigley,United States,4566,Fast-Moving Consumer Goods
 2001-03-01,Xerox,United States,5901,Business Services
 2001-03-01,Yahoo!,United States,4291,Media
-
-100
 2001-04-01,3M,United States,1579,Diversified
 2001-04-01,Accenture,United States,5182,Business Services
 2001-04-01,adidas,Germany,3660,Sporting Goods
@@ -1607,8 +1573,6 @@ Value ($ million)
 2001-04-01,Wrigley,United States,4584,Fast-Moving Consumer Goods
 2001-04-01,Xerox,United States,5841,Business Services
 2001-04-01,Yahoo!,United States,4247,Media
-
-100
 2001-05-01,3M,United States,1579,Diversified
 2001-05-01,Accenture,United States,5182,Business Services
 2001-05-01,adidas,Germany,3663,Sporting Goods
@@ -1709,8 +1673,6 @@ Value ($ million)
 2001-05-01,Wrigley,United States,4602,Fast-Moving Consumer Goods
 2001-05-01,Xerox,United States,5782,Business Services
 2001-05-01,Yahoo!,United States,4204,Media
-
-100
 2001-06-01,3M,United States,1579,Diversified
 2001-06-01,Accenture,United States,5182,Business Services
 2001-06-01,adidas,Germany,3667,Sporting Goods
@@ -1811,8 +1773,6 @@ Value ($ million)
 2001-06-01,Wrigley,United States,4620,Fast-Moving Consumer Goods
 2001-06-01,Xerox,United States,5723,Business Services
 2001-06-01,Yahoo!,United States,4160,Media
-
-100
 2001-07-01,3M,United States,1579,Diversified
 2001-07-01,Accenture,United States,5182,Business Services
 2001-07-01,adidas,Germany,3670,Sporting Goods
@@ -1913,8 +1873,6 @@ Value ($ million)
 2001-07-01,Wrigley,United States,4638,Fast-Moving Consumer Goods
 2001-07-01,Xerox,United States,5664,Business Services
 2001-07-01,Yahoo!,United States,4117,Media
-
-100
 2001-08-01,3M,United States,1579,Diversified
 2001-08-01,Accenture,United States,5182,Business Services
 2001-08-01,adidas,Germany,3673,Sporting Goods
@@ -2015,8 +1973,6 @@ Value ($ million)
 2001-08-01,Wrigley,United States,4657,Fast-Moving Consumer Goods
 2001-08-01,Xerox,United States,5604,Business Services
 2001-08-01,Yahoo!,United States,4073,Media
-
-100
 2001-09-01,3M,United States,1579,Diversified
 2001-09-01,Accenture,United States,5182,Business Services
 2001-09-01,adidas,Germany,3677,Sporting Goods
@@ -2117,8 +2073,6 @@ Value ($ million)
 2001-09-01,Wrigley,United States,4675,Fast-Moving Consumer Goods
 2001-09-01,Xerox,United States,5545,Business Services
 2001-09-01,Yahoo!,United States,4029,Media
-
-100
 2001-10-01,3M,United States,1579,Diversified
 2001-10-01,Accenture,United States,5182,Business Services
 2001-10-01,adidas,Germany,3680,Sporting Goods
@@ -2219,8 +2173,6 @@ Value ($ million)
 2001-10-01,Wrigley,United States,4693,Fast-Moving Consumer Goods
 2001-10-01,Xerox,United States,5486,Business Services
 2001-10-01,Yahoo!,United States,3986,Media
-
-100
 2001-11-01,3M,United States,1579,Diversified
 2001-11-01,Accenture,United States,5182,Business Services
 2001-11-01,adidas,Germany,3683,Sporting Goods
@@ -2321,8 +2273,6 @@ Value ($ million)
 2001-11-01,Wrigley,United States,4711,Fast-Moving Consumer Goods
 2001-11-01,Xerox,United States,5427,Business Services
 2001-11-01,Yahoo!,United States,3942,Media
-
-100
 2001-12-01,3M,United States,1579,Diversified
 2001-12-01,Accenture,United States,5182,Business Services
 2001-12-01,adidas,Germany,3687,Sporting Goods
@@ -2423,8 +2373,6 @@ Value ($ million)
 2001-12-01,Wrigley,United States,4729,Fast-Moving Consumer Goods
 2001-12-01,Xerox,United States,5367,Business Services
 2001-12-01,Yahoo!,United States,3899,Media
-
-100
 2002-01-01,3M,United States,1579,Diversified
 2002-01-01,Accenture,United States,5182,Business Services
 2002-01-01,adidas,Germany,3690,Sporting Goods
@@ -2525,8 +2473,6 @@ Value ($ million)
 2002-01-01,Wrigley,United States,4747,Fast-Moving Consumer Goods
 2002-01-01,Xerox,United States,5308,Business Services
 2002-01-01,Yahoo!,United States,3855,Media
-
-100
 2002-02-01,Accenture,United States,5192,Business Services
 2002-02-01,adidas,Germany,3689,Sporting Goods
 2002-02-01,Amazon,United States,3194,Retail
@@ -2627,8 +2573,6 @@ Value ($ million)
 2002-02-01,Wrigley,United States,4773,Fast-Moving Consumer Goods
 2002-02-01,Xerox,United States,5330,Business Services
 2002-02-01,Yahoo!,United States,3858,Media
-
-100
 2002-03-01,Accenture,United States,5202,Business Services
 2002-03-01,adidas,Germany,3688,Sporting Goods
 2002-03-01,Amazon,United States,3213,Retail
@@ -2729,8 +2673,6 @@ Value ($ million)
 2002-03-01,Wrigley,United States,4799,Fast-Moving Consumer Goods
 2002-03-01,Xerox,United States,5353,Business Services
 2002-03-01,Yahoo!,United States,3862,Media
-
-100
 2002-04-01,Accenture,United States,5212,Business Services
 2002-04-01,adidas,Germany,3687,Sporting Goods
 2002-04-01,Amazon,United States,3232,Retail
@@ -2831,8 +2773,6 @@ Value ($ million)
 2002-04-01,Wrigley,United States,4824,Fast-Moving Consumer Goods
 2002-04-01,Xerox,United States,5375,Business Services
 2002-04-01,Yahoo!,United States,3865,Media
-
-100
 2002-05-01,Accenture,United States,5222,Business Services
 2002-05-01,adidas,Germany,3686,Sporting Goods
 2002-05-01,Amazon,United States,3251,Retail
@@ -2933,8 +2873,6 @@ Value ($ million)
 2002-05-01,Wrigley,United States,4850,Fast-Moving Consumer Goods
 2002-05-01,Xerox,United States,5398,Business Services
 2002-05-01,Yahoo!,United States,3868,Media
-
-100
 2002-06-01,Accenture,United States,5232,Business Services
 2002-06-01,adidas,Germany,3685,Sporting Goods
 2002-06-01,Amazon,United States,3270,Retail
@@ -3035,8 +2973,6 @@ Value ($ million)
 2002-06-01,Wrigley,United States,4876,Fast-Moving Consumer Goods
 2002-06-01,Xerox,United States,5420,Business Services
 2002-06-01,Yahoo!,United States,3872,Media
-
-100
 2002-07-01,Accenture,United States,5241,Business Services
 2002-07-01,adidas,Germany,3685,Sporting Goods
 2002-07-01,Amazon,United States,3289,Retail
@@ -3137,8 +3073,6 @@ Value ($ million)
 2002-07-01,Wrigley,United States,4902,Fast-Moving Consumer Goods
 2002-07-01,Xerox,United States,5443,Business Services
 2002-07-01,Yahoo!,United States,3875,Media
-
-100
 2002-08-01,Accenture,United States,5251,Business Services
 2002-08-01,adidas,Germany,3684,Sporting Goods
 2002-08-01,Amazon,United States,3308,Retail
@@ -3239,8 +3173,6 @@ Value ($ million)
 2002-08-01,Wrigley,United States,4928,Fast-Moving Consumer Goods
 2002-08-01,Xerox,United States,5465,Business Services
 2002-08-01,Yahoo!,United States,3878,Media
-
-100
 2002-09-01,Accenture,United States,5261,Business Services
 2002-09-01,adidas,Germany,3683,Sporting Goods
 2002-09-01,Amazon,United States,3327,Retail
@@ -3341,8 +3273,6 @@ Value ($ million)
 2002-09-01,Wrigley,United States,4954,Fast-Moving Consumer Goods
 2002-09-01,Xerox,United States,5488,Business Services
 2002-09-01,Yahoo!,United States,3882,Media
-
-100
 2002-10-01,Accenture,United States,5271,Business Services
 2002-10-01,adidas,Germany,3682,Sporting Goods
 2002-10-01,Amazon,United States,3346,Retail
@@ -3443,8 +3373,6 @@ Value ($ million)
 2002-10-01,Wrigley,United States,4979,Fast-Moving Consumer Goods
 2002-10-01,Xerox,United States,5510,Business Services
 2002-10-01,Yahoo!,United States,3885,Media
-
-100
 2002-11-01,Accenture,United States,5281,Business Services
 2002-11-01,adidas,Germany,3681,Sporting Goods
 2002-11-01,Amazon,United States,3365,Retail
@@ -3545,8 +3473,6 @@ Value ($ million)
 2002-11-01,Wrigley,United States,5005,Fast-Moving Consumer Goods
 2002-11-01,Xerox,United States,5533,Business Services
 2002-11-01,Yahoo!,United States,3888,Media
-
-100
 2002-12-01,Accenture,United States,5291,Business Services
 2002-12-01,adidas,Germany,3680,Sporting Goods
 2002-12-01,Amazon,United States,3384,Retail
@@ -3647,8 +3573,6 @@ Value ($ million)
 2002-12-01,Wrigley,United States,5031,Fast-Moving Consumer Goods
 2002-12-01,Xerox,United States,5555,Business Services
 2002-12-01,Yahoo!,United States,3892,Media
-
-100
 2003-01-01,Accenture,United States,5301,Business Services
 2003-01-01,adidas,Germany,3679,Sporting Goods
 2003-01-01,Amazon,United States,3403,Retail
@@ -3749,8 +3673,6 @@ Value ($ million)
 2003-01-01,Wrigley,United States,5057,Fast-Moving Consumer Goods
 2003-01-01,Xerox,United States,5578,Business Services
 2003-01-01,Yahoo!,United States,3895,Media
-
-100
 2003-02-01,Accenture,United States,5340,Business Services
 2003-02-01,adidas,Germany,3684,Sporting Goods
 2003-02-01,Amazon,United States,3466,Retail
@@ -3851,8 +3773,6 @@ Value ($ million)
 2003-02-01,Wrigley,United States,5088,Fast-Moving Consumer Goods
 2003-02-01,Xerox,United States,5588,Business Services
 2003-02-01,Yahoo!,United States,3949,Media
-
-100
 2003-03-01,Accenture,United States,5379,Business Services
 2003-03-01,adidas,Germany,3689,Sporting Goods
 2003-03-01,Amazon,United States,3528,Retail
@@ -3953,8 +3873,6 @@ Value ($ million)
 2003-03-01,Wrigley,United States,5118,Fast-Moving Consumer Goods
 2003-03-01,Xerox,United States,5598,Business Services
 2003-03-01,Yahoo!,United States,4003,Media
-
-100
 2003-04-01,Accenture,United States,5419,Business Services
 2003-04-01,adidas,Germany,3694,Sporting Goods
 2003-04-01,Amazon,United States,3591,Retail
@@ -4055,8 +3973,6 @@ Value ($ million)
 2003-04-01,Wrigley,United States,5149,Fast-Moving Consumer Goods
 2003-04-01,Xerox,United States,5607,Business Services
 2003-04-01,Yahoo!,United States,4057,Media
-
-100
 2003-05-01,Accenture,United States,5458,Business Services
 2003-05-01,adidas,Germany,3699,Sporting Goods
 2003-05-01,Amazon,United States,3654,Retail
@@ -4157,8 +4073,6 @@ Value ($ million)
 2003-05-01,Wrigley,United States,5179,Fast-Moving Consumer Goods
 2003-05-01,Xerox,United States,5617,Business Services
 2003-05-01,Yahoo!,United States,4112,Media
-
-100
 2003-06-01,Accenture,United States,5497,Business Services
 2003-06-01,adidas,Germany,3704,Sporting Goods
 2003-06-01,Amazon,United States,3717,Retail
@@ -4259,8 +4173,6 @@ Value ($ million)
 2003-06-01,Wrigley,United States,5210,Fast-Moving Consumer Goods
 2003-06-01,Xerox,United States,5627,Business Services
 2003-06-01,Yahoo!,United States,4166,Media
-
-100
 2003-07-01,Accenture,United States,5536,Business Services
 2003-07-01,adidas,Germany,3709,Sporting Goods
 2003-07-01,Amazon,United States,3779,Retail
@@ -4361,8 +4273,6 @@ Value ($ million)
 2003-07-01,Wrigley,United States,5240,Fast-Moving Consumer Goods
 2003-07-01,Xerox,United States,5637,Business Services
 2003-07-01,Yahoo!,United States,4220,Media
-
-100
 2003-08-01,Accenture,United States,5576,Business Services
 2003-08-01,adidas,Germany,3715,Sporting Goods
 2003-08-01,Amazon,United States,3842,Retail
@@ -4463,8 +4373,6 @@ Value ($ million)
 2003-08-01,Wrigley,United States,5271,Fast-Moving Consumer Goods
 2003-08-01,Xerox,United States,5647,Business Services
 2003-08-01,Yahoo!,United States,4274,Media
-
-100
 2003-09-01,Accenture,United States,5615,Business Services
 2003-09-01,adidas,Germany,3720,Sporting Goods
 2003-09-01,Amazon,United States,3905,Retail
@@ -4565,8 +4473,6 @@ Value ($ million)
 2003-09-01,Wrigley,United States,5302,Fast-Moving Consumer Goods
 2003-09-01,Xerox,United States,5657,Business Services
 2003-09-01,Yahoo!,United States,4328,Media
-
-100
 2003-10-01,Accenture,United States,5654,Business Services
 2003-10-01,adidas,Germany,3725,Sporting Goods
 2003-10-01,Amazon,United States,3968,Retail
@@ -4667,8 +4573,6 @@ Value ($ million)
 2003-10-01,Wrigley,United States,5332,Fast-Moving Consumer Goods
 2003-10-01,Xerox,United States,5666,Business Services
 2003-10-01,Yahoo!,United States,4382,Media
-
-100
 2003-11-01,Accenture,United States,5693,Business Services
 2003-11-01,adidas,Germany,3730,Sporting Goods
 2003-11-01,Amazon,United States,4030,Retail
@@ -4769,8 +4673,6 @@ Value ($ million)
 2003-11-01,Wrigley,United States,5363,Fast-Moving Consumer Goods
 2003-11-01,Xerox,United States,5676,Business Services
 2003-11-01,Yahoo!,United States,4437,Media
-
-100
 2003-12-01,Accenture,United States,5733,Business Services
 2003-12-01,adidas,Germany,3735,Sporting Goods
 2003-12-01,Amazon,United States,4093,Retail
@@ -4871,8 +4773,6 @@ Value ($ million)
 2003-12-01,Wrigley,United States,5393,Fast-Moving Consumer Goods
 2003-12-01,Xerox,United States,5686,Business Services
 2003-12-01,Yahoo!,United States,4491,Media
-
-100
 2004-01-01,Accenture,United States,5772,Business Services
 2004-01-01,adidas,Germany,3740,Sporting Goods
 2004-01-01,Amazon,United States,4156,Retail
@@ -4973,8 +4873,6 @@ Value ($ million)
 2004-01-01,Wrigley,United States,5424,Fast-Moving Consumer Goods
 2004-01-01,Xerox,United States,5696,Business Services
 2004-01-01,Yahoo!,United States,4545,Media
-
-100
 2004-02-01,Accenture,United States,5803,Business Services
 2004-02-01,adidas,Germany,3764,Sporting Goods
 2004-02-01,Amazon,United States,4164,Retail
@@ -5075,8 +4973,6 @@ Value ($ million)
 2004-02-01,Xerox,United States,5697,Business Services
 2004-02-01,Yahoo!,United States,4604,Media
 2004-02-01,Zara,Spain,3730,Apparel
-
-100
 2004-03-01,Accenture,United States,5834,Business Services
 2004-03-01,adidas,Germany,3789,Sporting Goods
 2004-03-01,Amazon,United States,4171,Retail
@@ -5177,8 +5073,6 @@ Value ($ million)
 2004-03-01,Xerox,United States,5697,Business Services
 2004-03-01,Yahoo!,United States,4663,Media
 2004-03-01,Zara,Spain,3730,Apparel
-
-100
 2004-04-01,Accenture,United States,5864,Business Services
 2004-04-01,adidas,Germany,3813,Sporting Goods
 2004-04-01,Amazon,United States,4179,Retail
@@ -5279,8 +5173,6 @@ Value ($ million)
 2004-04-01,Xerox,United States,5698,Business Services
 2004-04-01,Yahoo!,United States,4723,Media
 2004-04-01,Zara,Spain,3730,Apparel
-
-100
 2004-05-01,Accenture,United States,5895,Business Services
 2004-05-01,adidas,Germany,3838,Sporting Goods
 2004-05-01,Amazon,United States,4187,Retail
@@ -5381,8 +5273,6 @@ Value ($ million)
 2004-05-01,Xerox,United States,5699,Business Services
 2004-05-01,Yahoo!,United States,4782,Media
 2004-05-01,Zara,Spain,3730,Apparel
-
-100
 2004-06-01,Accenture,United States,5926,Business Services
 2004-06-01,adidas,Germany,3862,Sporting Goods
 2004-06-01,Amazon,United States,4194,Retail
@@ -5483,8 +5373,6 @@ Value ($ million)
 2004-06-01,Xerox,United States,5700,Business Services
 2004-06-01,Yahoo!,United States,4841,Media
 2004-06-01,Zara,Spain,3730,Apparel
-
-100
 2004-07-01,Accenture,United States,5957,Business Services
 2004-07-01,adidas,Germany,3886,Sporting Goods
 2004-07-01,Amazon,United States,4202,Retail
@@ -5585,8 +5473,6 @@ Value ($ million)
 2004-07-01,Xerox,United States,5700,Business Services
 2004-07-01,Yahoo!,United States,4900,Media
 2004-07-01,Zara,Spain,3730,Apparel
-
-100
 2004-08-01,Accenture,United States,5988,Business Services
 2004-08-01,adidas,Germany,3911,Sporting Goods
 2004-08-01,Amazon,United States,4210,Retail
@@ -5687,8 +5573,6 @@ Value ($ million)
 2004-08-01,Xerox,United States,5701,Business Services
 2004-08-01,Yahoo!,United States,4960,Media
 2004-08-01,Zara,Spain,3730,Apparel
-
-100
 2004-09-01,Accenture,United States,6019,Business Services
 2004-09-01,adidas,Germany,3935,Sporting Goods
 2004-09-01,Amazon,United States,4217,Retail
@@ -5789,8 +5673,6 @@ Value ($ million)
 2004-09-01,Xerox,United States,5702,Business Services
 2004-09-01,Yahoo!,United States,5019,Media
 2004-09-01,Zara,Spain,3730,Apparel
-
-100
 2004-10-01,Accenture,United States,6049,Business Services
 2004-10-01,adidas,Germany,3960,Sporting Goods
 2004-10-01,Amazon,United States,4225,Retail
@@ -5891,8 +5773,6 @@ Value ($ million)
 2004-10-01,Xerox,United States,5703,Business Services
 2004-10-01,Yahoo!,United States,5078,Media
 2004-10-01,Zara,Spain,3730,Apparel
-
-100
 2004-11-01,Accenture,United States,6080,Business Services
 2004-11-01,adidas,Germany,3984,Sporting Goods
 2004-11-01,Amazon,United States,4233,Retail
@@ -5993,8 +5873,6 @@ Value ($ million)
 2004-11-01,Xerox,United States,5703,Business Services
 2004-11-01,Yahoo!,United States,5137,Media
 2004-11-01,Zara,Spain,3730,Apparel
-
-100
 2004-12-01,Accenture,United States,6111,Business Services
 2004-12-01,adidas,Germany,4009,Sporting Goods
 2004-12-01,Amazon,United States,4240,Retail
@@ -6095,8 +5973,6 @@ Value ($ million)
 2004-12-01,Xerox,United States,5704,Business Services
 2004-12-01,Yahoo!,United States,5197,Media
 2004-12-01,Zara,Spain,3730,Apparel
-
-100
 2005-01-01,Accenture,United States,6142,Business Services
 2005-01-01,adidas,Germany,4033,Sporting Goods
 2005-01-01,Amazon,United States,4248,Retail
@@ -6197,8 +6073,6 @@ Value ($ million)
 2005-01-01,Xerox,United States,5705,Business Services
 2005-01-01,Yahoo!,United States,5256,Media
 2005-01-01,Zara,Spain,3730,Apparel
-
-100
 2005-02-01,Accenture,United States,6191,Business Services
 2005-02-01,adidas,Germany,4054,Sporting Goods
 2005-02-01,Amazon,United States,4286,Retail
@@ -6299,8 +6173,6 @@ Value ($ million)
 2005-02-01,Xerox,United States,5723,Business Services
 2005-02-01,Yahoo!,United States,5323,Media
 2005-02-01,Zara,Spain,3772,Apparel
-
-100
 2005-03-01,Accenture,United States,6240,Business Services
 2005-03-01,adidas,Germany,4076,Sporting Goods
 2005-03-01,Amazon,United States,4324,Retail
@@ -6401,8 +6273,6 @@ Value ($ million)
 2005-03-01,Xerox,United States,5740,Business Services
 2005-03-01,Yahoo!,United States,5389,Media
 2005-03-01,Zara,Spain,3814,Apparel
-
-100
 2005-04-01,Accenture,United States,6288,Business Services
 2005-04-01,adidas,Germany,4097,Sporting Goods
 2005-04-01,Amazon,United States,4363,Retail
@@ -6503,8 +6373,6 @@ Value ($ million)
 2005-04-01,Xerox,United States,5758,Business Services
 2005-04-01,Yahoo!,United States,5456,Media
 2005-04-01,Zara,Spain,3856,Apparel
-
-100
 2005-05-01,Accenture,United States,6337,Business Services
 2005-05-01,adidas,Germany,4119,Sporting Goods
 2005-05-01,Amazon,United States,4401,Retail
@@ -6605,8 +6473,6 @@ Value ($ million)
 2005-05-01,Xerox,United States,5776,Business Services
 2005-05-01,Yahoo!,United States,5523,Media
 2005-05-01,Zara,Spain,3898,Apparel
-
-100
 2005-06-01,Accenture,United States,6386,Business Services
 2005-06-01,adidas,Germany,4140,Sporting Goods
 2005-06-01,Amazon,United States,4439,Retail
@@ -6707,8 +6573,6 @@ Value ($ million)
 2005-06-01,Xerox,United States,5794,Business Services
 2005-06-01,Yahoo!,United States,5589,Media
 2005-06-01,Zara,Spain,3940,Apparel
-
-100
 2005-07-01,Accenture,United States,6435,Business Services
 2005-07-01,adidas,Germany,4161,Sporting Goods
 2005-07-01,Amazon,United States,4477,Retail
@@ -6809,8 +6673,6 @@ Value ($ million)
 2005-07-01,Xerox,United States,5811,Business Services
 2005-07-01,Yahoo!,United States,5656,Media
 2005-07-01,Zara,Spain,3982,Apparel
-
-100
 2005-08-01,Accenture,United States,6484,Business Services
 2005-08-01,adidas,Germany,4183,Sporting Goods
 2005-08-01,Amazon,United States,4516,Retail
@@ -6911,8 +6773,6 @@ Value ($ million)
 2005-08-01,Xerox,United States,5829,Business Services
 2005-08-01,Yahoo!,United States,5723,Media
 2005-08-01,Zara,Spain,4025,Apparel
-
-100
 2005-09-01,Accenture,United States,6533,Business Services
 2005-09-01,adidas,Germany,4204,Sporting Goods
 2005-09-01,Amazon,United States,4554,Retail
@@ -7013,8 +6873,6 @@ Value ($ million)
 2005-09-01,Xerox,United States,5847,Business Services
 2005-09-01,Yahoo!,United States,5789,Media
 2005-09-01,Zara,Spain,4067,Apparel
-
-100
 2005-10-01,Accenture,United States,6581,Business Services
 2005-10-01,adidas,Germany,4226,Sporting Goods
 2005-10-01,Amazon,United States,4592,Retail
@@ -7115,8 +6973,6 @@ Value ($ million)
 2005-10-01,Xerox,United States,5865,Business Services
 2005-10-01,Yahoo!,United States,5856,Media
 2005-10-01,Zara,Spain,4109,Apparel
-
-100
 2005-11-01,Accenture,United States,6630,Business Services
 2005-11-01,adidas,Germany,4247,Sporting Goods
 2005-11-01,Amazon,United States,4630,Retail
@@ -7217,8 +7073,6 @@ Value ($ million)
 2005-11-01,Xerox,United States,5882,Business Services
 2005-11-01,Yahoo!,United States,5923,Media
 2005-11-01,Zara,Spain,4151,Apparel
-
-100
 2005-12-01,Accenture,United States,6679,Business Services
 2005-12-01,adidas,Germany,4269,Sporting Goods
 2005-12-01,Amazon,United States,4669,Retail
@@ -7319,8 +7173,6 @@ Value ($ million)
 2005-12-01,Xerox,United States,5900,Business Services
 2005-12-01,Yahoo!,United States,5989,Media
 2005-12-01,Zara,Spain,4193,Apparel
-
-100
 2006-01-01,Accenture,United States,6728,Business Services
 2006-01-01,adidas,Germany,4290,Sporting Goods
 2006-01-01,Amazon,United States,4707,Retail
@@ -7421,8 +7273,6 @@ Value ($ million)
 2006-01-01,Xerox,United States,5918,Business Services
 2006-01-01,Yahoo!,United States,6056,Media
 2006-01-01,Zara,Spain,4235,Apparel
-
-100
 2006-02-01,Accenture,United States,6775,Business Services
 2006-02-01,adidas,Germany,4330,Sporting Goods
 2006-02-01,AIG,United States,7490,Financial Services
@@ -7523,8 +7373,6 @@ Value ($ million)
 2006-02-01,Xerox,United States,5929,Business Services
 2006-02-01,Yahoo!,United States,6057,Media
 2006-02-01,Zara,Spain,4312,Apparel
-
-100
 2006-03-01,Accenture,United States,6823,Business Services
 2006-03-01,adidas,Germany,4369,Sporting Goods
 2006-03-01,AIG,United States,7490,Financial Services
@@ -7625,8 +7473,6 @@ Value ($ million)
 2006-03-01,Xerox,United States,5940,Business Services
 2006-03-01,Yahoo!,United States,6058,Media
 2006-03-01,Zara,Spain,4390,Apparel
-
-100
 2006-04-01,Accenture,United States,6870,Business Services
 2006-04-01,adidas,Germany,4409,Sporting Goods
 2006-04-01,AIG,United States,7490,Financial Services
@@ -7727,8 +7573,6 @@ Value ($ million)
 2006-04-01,Xerox,United States,5951,Business Services
 2006-04-01,Yahoo!,United States,6059,Media
 2006-04-01,Zara,Spain,4467,Apparel
-
-100
 2006-05-01,Accenture,United States,6917,Business Services
 2006-05-01,adidas,Germany,4449,Sporting Goods
 2006-05-01,AIG,United States,7490,Financial Services
@@ -7829,8 +7673,6 @@ Value ($ million)
 2006-05-01,Xerox,United States,5962,Business Services
 2006-05-01,Yahoo!,United States,6060,Media
 2006-05-01,Zara,Spain,4545,Apparel
-
-100
 2006-06-01,Accenture,United States,6965,Business Services
 2006-06-01,adidas,Germany,4489,Sporting Goods
 2006-06-01,AIG,United States,7490,Financial Services
@@ -7931,8 +7773,6 @@ Value ($ million)
 2006-06-01,Xerox,United States,5973,Business Services
 2006-06-01,Yahoo!,United States,6061,Media
 2006-06-01,Zara,Spain,4622,Apparel
-
-100
 2006-07-01,Accenture,United States,7012,Business Services
 2006-07-01,adidas,Germany,4528,Sporting Goods
 2006-07-01,AIG,United States,7490,Financial Services
@@ -8033,8 +7873,6 @@ Value ($ million)
 2006-07-01,Xerox,United States,5984,Business Services
 2006-07-01,Yahoo!,United States,6061,Media
 2006-07-01,Zara,Spain,4700,Apparel
-
-100
 2006-08-01,Accenture,United States,7059,Business Services
 2006-08-01,adidas,Germany,4568,Sporting Goods
 2006-08-01,AIG,United States,7490,Financial Services
@@ -8135,8 +7973,6 @@ Value ($ million)
 2006-08-01,Xerox,United States,5995,Business Services
 2006-08-01,Yahoo!,United States,6062,Media
 2006-08-01,Zara,Spain,4777,Apparel
-
-100
 2006-09-01,Accenture,United States,7107,Business Services
 2006-09-01,adidas,Germany,4608,Sporting Goods
 2006-09-01,AIG,United States,7490,Financial Services
@@ -8237,8 +8073,6 @@ Value ($ million)
 2006-09-01,Xerox,United States,6006,Business Services
 2006-09-01,Yahoo!,United States,6063,Media
 2006-09-01,Zara,Spain,4855,Apparel
-
-100
 2006-10-01,Accenture,United States,7154,Business Services
 2006-10-01,adidas,Germany,4648,Sporting Goods
 2006-10-01,AIG,United States,7490,Financial Services
@@ -8339,8 +8173,6 @@ Value ($ million)
 2006-10-01,Xerox,United States,6017,Business Services
 2006-10-01,Yahoo!,United States,6064,Media
 2006-10-01,Zara,Spain,4932,Apparel
-
-100
 2006-11-01,Accenture,United States,7201,Business Services
 2006-11-01,adidas,Germany,4687,Sporting Goods
 2006-11-01,AIG,United States,7490,Financial Services
@@ -8441,8 +8273,6 @@ Value ($ million)
 2006-11-01,Xerox,United States,6028,Business Services
 2006-11-01,Yahoo!,United States,6065,Media
 2006-11-01,Zara,Spain,5010,Apparel
-
-100
 2006-12-01,Accenture,United States,7249,Business Services
 2006-12-01,adidas,Germany,4727,Sporting Goods
 2006-12-01,AIG,United States,7490,Financial Services
@@ -8543,8 +8373,6 @@ Value ($ million)
 2006-12-01,Xerox,United States,6039,Business Services
 2006-12-01,Yahoo!,United States,6066,Media
 2006-12-01,Zara,Spain,5087,Apparel
-
-100
 2007-01-01,Accenture,United States,7296,Business Services
 2007-01-01,adidas,Germany,4767,Sporting Goods
 2007-01-01,AIG,United States,7490,Financial Services
@@ -8645,8 +8473,6 @@ Value ($ million)
 2007-01-01,Xerox,United States,6050,Business Services
 2007-01-01,Yahoo!,United States,6067,Media
 2007-01-01,Zara,Spain,5165,Apparel
-
-100
 2007-02-01,Accenture,United States,7350,Business Services
 2007-02-01,adidas,Germany,4792,Sporting Goods
 2007-02-01,AIG,United States,7451,Financial Services
@@ -8747,8 +8573,6 @@ Value ($ million)
 2007-02-01,Xerox,United States,6079,Business Services
 2007-02-01,Yahoo!,United States,6019,Media
 2007-02-01,Zara,Spain,5231,Apparel
-
-100
 2007-03-01,Accenture,United States,7405,Business Services
 2007-03-01,adidas,Germany,4818,Sporting Goods
 2007-03-01,AIG,United States,7412,Financial Services
@@ -8849,8 +8673,6 @@ Value ($ million)
 2007-03-01,Xerox,United States,6107,Business Services
 2007-03-01,Yahoo!,United States,5972,Media
 2007-03-01,Zara,Spain,5297,Apparel
-
-100
 2007-04-01,Accenture,United States,7459,Business Services
 2007-04-01,adidas,Germany,4843,Sporting Goods
 2007-04-01,AIG,United States,7373,Financial Services
@@ -8951,8 +8773,6 @@ Value ($ million)
 2007-04-01,Xerox,United States,6136,Business Services
 2007-04-01,Yahoo!,United States,5924,Media
 2007-04-01,Zara,Spain,5362,Apparel
-
-100
 2007-05-01,Accenture,United States,7513,Business Services
 2007-05-01,adidas,Germany,4869,Sporting Goods
 2007-05-01,AIG,United States,7334,Financial Services
@@ -9053,8 +8873,6 @@ Value ($ million)
 2007-05-01,Xerox,United States,6164,Business Services
 2007-05-01,Yahoo!,United States,5877,Media
 2007-05-01,Zara,Spain,5428,Apparel
-
-100
 2007-06-01,Accenture,United States,7568,Business Services
 2007-06-01,adidas,Germany,4894,Sporting Goods
 2007-06-01,AIG,United States,7295,Financial Services
@@ -9155,8 +8973,6 @@ Value ($ million)
 2007-06-01,Xerox,United States,6193,Business Services
 2007-06-01,Yahoo!,United States,5829,Media
 2007-06-01,Zara,Spain,5494,Apparel
-
-100
 2007-07-01,Accenture,United States,7622,Business Services
 2007-07-01,adidas,Germany,4919,Sporting Goods
 2007-07-01,AIG,United States,7256,Financial Services
@@ -9257,8 +9073,6 @@ Value ($ million)
 2007-07-01,Xerox,United States,6221,Business Services
 2007-07-01,Yahoo!,United States,5782,Media
 2007-07-01,Zara,Spain,5560,Apparel
-
-100
 2007-08-01,Accenture,United States,7676,Business Services
 2007-08-01,adidas,Germany,4945,Sporting Goods
 2007-08-01,AIG,United States,7217,Financial Services
@@ -9359,8 +9173,6 @@ Value ($ million)
 2007-08-01,Xerox,United States,6250,Business Services
 2007-08-01,Yahoo!,United States,5734,Media
 2007-08-01,Zara,Spain,5626,Apparel
-
-100
 2007-09-01,Accenture,United States,7731,Business Services
 2007-09-01,adidas,Germany,4970,Sporting Goods
 2007-09-01,AIG,United States,7178,Financial Services
@@ -9461,8 +9273,6 @@ Value ($ million)
 2007-09-01,Xerox,United States,6279,Business Services
 2007-09-01,Yahoo!,United States,5686,Media
 2007-09-01,Zara,Spain,5692,Apparel
-
-100
 2007-10-01,Accenture,United States,7785,Business Services
 2007-10-01,adidas,Germany,4996,Sporting Goods
 2007-10-01,AIG,United States,7139,Financial Services
@@ -9563,8 +9373,6 @@ Value ($ million)
 2007-10-01,Xerox,United States,6307,Business Services
 2007-10-01,Yahoo!,United States,5639,Media
 2007-10-01,Zara,Spain,5757,Apparel
-
-100
 2007-11-01,Accenture,United States,7839,Business Services
 2007-11-01,adidas,Germany,5021,Sporting Goods
 2007-11-01,AIG,United States,7100,Financial Services
@@ -9665,8 +9473,6 @@ Value ($ million)
 2007-11-01,Xerox,United States,6336,Business Services
 2007-11-01,Yahoo!,United States,5591,Media
 2007-11-01,Zara,Spain,5823,Apparel
-
-100
 2007-12-01,Accenture,United States,7894,Business Services
 2007-12-01,adidas,Germany,5047,Sporting Goods
 2007-12-01,AIG,United States,7061,Financial Services
@@ -9767,8 +9573,6 @@ Value ($ million)
 2007-12-01,Xerox,United States,6364,Business Services
 2007-12-01,Yahoo!,United States,5544,Media
 2007-12-01,Zara,Spain,5889,Apparel
-
-100
 2008-01-01,Accenture,United States,7948,Business Services
 2008-01-01,adidas,Germany,5072,Sporting Goods
 2008-01-01,AIG,United States,7022,Financial Services
@@ -9869,8 +9673,6 @@ Value ($ million)
 2008-01-01,Xerox,United States,6393,Business Services
 2008-01-01,Yahoo!,United States,5496,Media
 2008-01-01,Zara,Spain,5955,Apparel
-
-100
 2008-02-01,Accenture,United States,7928,Business Services
 2008-02-01,adidas,Germany,5099,Sporting Goods
 2008-02-01,Adobe,United States,3161,Technology
@@ -9971,8 +9773,6 @@ Value ($ million)
 2008-02-01,Xerox,United States,6396,Business Services
 2008-02-01,Yahoo!,United States,5464,Media
 2008-02-01,Zara,Spain,6024,Apparel
-
-100
 2008-03-01,Accenture,United States,7908,Business Services
 2008-03-01,adidas,Germany,5126,Sporting Goods
 2008-03-01,Adobe,United States,3161,Technology
@@ -10073,8 +9873,6 @@ Value ($ million)
 2008-03-01,Xerox,United States,6399,Business Services
 2008-03-01,Yahoo!,United States,5432,Media
 2008-03-01,Zara,Spain,6094,Apparel
-
-100
 2008-04-01,Accenture,United States,7889,Business Services
 2008-04-01,adidas,Germany,5153,Sporting Goods
 2008-04-01,Adobe,United States,3161,Technology
@@ -10175,8 +9973,6 @@ Value ($ million)
 2008-04-01,Xerox,United States,6402,Business Services
 2008-04-01,Yahoo!,United States,5400,Media
 2008-04-01,Zara,Spain,6163,Apparel
-
-100
 2008-05-01,Accenture,United States,7869,Business Services
 2008-05-01,adidas,Germany,5180,Sporting Goods
 2008-05-01,Adobe,United States,3161,Technology
@@ -10277,8 +10073,6 @@ Value ($ million)
 2008-05-01,Xerox,United States,6406,Business Services
 2008-05-01,Yahoo!,United States,5368,Media
 2008-05-01,Zara,Spain,6233,Apparel
-
-100
 2008-06-01,Accenture,United States,7849,Business Services
 2008-06-01,adidas,Germany,5207,Sporting Goods
 2008-06-01,Adobe,United States,3161,Technology
@@ -10379,8 +10173,6 @@ Value ($ million)
 2008-06-01,Xerox,United States,6409,Business Services
 2008-06-01,Yahoo!,United States,5336,Media
 2008-06-01,Zara,Spain,6302,Apparel
-
-100
 2008-07-01,Accenture,United States,7829,Business Services
 2008-07-01,adidas,Germany,5234,Sporting Goods
 2008-07-01,Adobe,United States,3161,Technology
@@ -10481,8 +10273,6 @@ Value ($ million)
 2008-07-01,Xerox,United States,6412,Business Services
 2008-07-01,Yahoo!,United States,5304,Media
 2008-07-01,Zara,Spain,6372,Apparel
-
-100
 2008-08-01,Accenture,United States,7809,Business Services
 2008-08-01,adidas,Germany,5262,Sporting Goods
 2008-08-01,Adobe,United States,3161,Technology
@@ -10583,8 +10373,6 @@ Value ($ million)
 2008-08-01,Xerox,United States,6415,Business Services
 2008-08-01,Yahoo!,United States,5271,Media
 2008-08-01,Zara,Spain,6441,Apparel
-
-100
 2008-09-01,Accenture,United States,7789,Business Services
 2008-09-01,adidas,Germany,5289,Sporting Goods
 2008-09-01,Adobe,United States,3161,Technology
@@ -10685,8 +10473,6 @@ Value ($ million)
 2008-09-01,Xerox,United States,6418,Business Services
 2008-09-01,Yahoo!,United States,5239,Media
 2008-09-01,Zara,Spain,6511,Apparel
-
-100
 2008-10-01,Accenture,United States,7770,Business Services
 2008-10-01,adidas,Germany,5316,Sporting Goods
 2008-10-01,Adobe,United States,3161,Technology
@@ -10787,8 +10573,6 @@ Value ($ million)
 2008-10-01,Xerox,United States,6421,Business Services
 2008-10-01,Yahoo!,United States,5207,Media
 2008-10-01,Zara,Spain,6580,Apparel
-
-100
 2008-11-01,Accenture,United States,7750,Business Services
 2008-11-01,adidas,Germany,5343,Sporting Goods
 2008-11-01,Adobe,United States,3161,Technology
@@ -10889,8 +10673,6 @@ Value ($ million)
 2008-11-01,Xerox,United States,6425,Business Services
 2008-11-01,Yahoo!,United States,5175,Media
 2008-11-01,Zara,Spain,6650,Apparel
-
-100
 2008-12-01,Accenture,United States,7730,Business Services
 2008-12-01,adidas,Germany,5370,Sporting Goods
 2008-12-01,Adobe,United States,3161,Technology
@@ -10991,8 +10773,6 @@ Value ($ million)
 2008-12-01,Xerox,United States,6428,Business Services
 2008-12-01,Yahoo!,United States,5143,Media
 2008-12-01,Zara,Spain,6719,Apparel
-
-100
 2009-01-01,Accenture,United States,7710,Business Services
 2009-01-01,adidas,Germany,5397,Sporting Goods
 2009-01-01,Adobe,United States,3161,Technology
@@ -11093,8 +10873,6 @@ Value ($ million)
 2009-01-01,Xerox,United States,6431,Business Services
 2009-01-01,Yahoo!,United States,5111,Media
 2009-01-01,Zara,Spain,6789,Apparel
-
-100
 2009-02-01,3M,United States,3586,Diversified
 2009-02-01,Accenture,United States,7691,Business Services
 2009-02-01,adidas,Germany,5405,Sporting Goods
@@ -11195,8 +10973,6 @@ Value ($ million)
 2009-02-01,Yahoo!,United States,5098,Media
 2009-02-01,Zara,Spain,6846,Apparel
 2009-02-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-03-01,3M,United States,3586,Diversified
 2009-03-01,Accenture,United States,7672,Business Services
 2009-03-01,adidas,Germany,5413,Sporting Goods
@@ -11297,8 +11073,6 @@ Value ($ million)
 2009-03-01,Yahoo!,United States,5086,Media
 2009-03-01,Zara,Spain,6902,Apparel
 2009-03-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-04-01,3M,United States,3586,Diversified
 2009-04-01,Accenture,United States,7653,Business Services
 2009-04-01,adidas,Germany,5421,Sporting Goods
@@ -11399,8 +11173,6 @@ Value ($ million)
 2009-04-01,Yahoo!,United States,5073,Media
 2009-04-01,Zara,Spain,6959,Apparel
 2009-04-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-05-01,3M,United States,3586,Diversified
 2009-05-01,Accenture,United States,7634,Business Services
 2009-05-01,adidas,Germany,5430,Sporting Goods
@@ -11501,8 +11273,6 @@ Value ($ million)
 2009-05-01,Yahoo!,United States,5060,Media
 2009-05-01,Zara,Spain,7015,Apparel
 2009-05-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-06-01,3M,United States,3586,Diversified
 2009-06-01,Accenture,United States,7615,Business Services
 2009-06-01,adidas,Germany,5438,Sporting Goods
@@ -11603,8 +11373,6 @@ Value ($ million)
 2009-06-01,Yahoo!,United States,5047,Media
 2009-06-01,Zara,Spain,7072,Apparel
 2009-06-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-07-01,3M,United States,3586,Diversified
 2009-07-01,Accenture,United States,7596,Business Services
 2009-07-01,adidas,Germany,5446,Sporting Goods
@@ -11705,8 +11473,6 @@ Value ($ million)
 2009-07-01,Yahoo!,United States,5035,Media
 2009-07-01,Zara,Spain,7128,Apparel
 2009-07-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-08-01,3M,United States,3586,Diversified
 2009-08-01,Accenture,United States,7576,Business Services
 2009-08-01,adidas,Germany,5454,Sporting Goods
@@ -11807,8 +11573,6 @@ Value ($ million)
 2009-08-01,Yahoo!,United States,5022,Media
 2009-08-01,Zara,Spain,7185,Apparel
 2009-08-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-09-01,3M,United States,3586,Diversified
 2009-09-01,Accenture,United States,7557,Business Services
 2009-09-01,adidas,Germany,5462,Sporting Goods
@@ -11909,8 +11673,6 @@ Value ($ million)
 2009-09-01,Yahoo!,United States,5009,Media
 2009-09-01,Zara,Spain,7242,Apparel
 2009-09-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-10-01,3M,United States,3586,Diversified
 2009-10-01,Accenture,United States,7538,Business Services
 2009-10-01,adidas,Germany,5470,Sporting Goods
@@ -12011,8 +11773,6 @@ Value ($ million)
 2009-10-01,Yahoo!,United States,4996,Media
 2009-10-01,Zara,Spain,7298,Apparel
 2009-10-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-11-01,3M,United States,3586,Diversified
 2009-11-01,Accenture,United States,7519,Business Services
 2009-11-01,adidas,Germany,5479,Sporting Goods
@@ -12113,8 +11873,6 @@ Value ($ million)
 2009-11-01,Yahoo!,United States,4984,Media
 2009-11-01,Zara,Spain,7355,Apparel
 2009-11-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2009-12-01,3M,United States,3586,Diversified
 2009-12-01,Accenture,United States,7500,Business Services
 2009-12-01,adidas,Germany,5487,Sporting Goods
@@ -12215,8 +11973,6 @@ Value ($ million)
 2009-12-01,Yahoo!,United States,4971,Media
 2009-12-01,Zara,Spain,7411,Apparel
 2009-12-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2010-01-01,3M,United States,3586,Diversified
 2010-01-01,Accenture,United States,7481,Business Services
 2010-01-01,adidas,Germany,5495,Sporting Goods
@@ -12317,8 +12073,6 @@ Value ($ million)
 2010-01-01,Yahoo!,United States,4958,Media
 2010-01-01,Zara,Spain,7468,Apparel
 2010-01-01,ZURICH,Switzerland,3496,Financial Services
-
-100
 2010-02-01,3M,United States,3616,Diversified
 2010-02-01,Accenture,United States,7525,Business Services
 2010-02-01,adidas,Germany,5550,Sporting Goods
@@ -12419,8 +12173,6 @@ Value ($ million)
 2010-02-01,Yahoo!,United States,4913,Media
 2010-02-01,Zara,Spain,7518,Apparel
 2010-02-01,ZURICH,Switzerland,3519,Financial Services
-
-100
 2010-03-01,3M,United States,3646,Diversified
 2010-03-01,Accenture,United States,7568,Business Services
 2010-03-01,adidas,Germany,5605,Sporting Goods
@@ -12521,8 +12273,6 @@ Value ($ million)
 2010-03-01,Yahoo!,United States,4867,Media
 2010-03-01,Zara,Spain,7567,Apparel
 2010-03-01,ZURICH,Switzerland,3541,Financial Services
-
-100
 2010-04-01,3M,United States,3676,Diversified
 2010-04-01,Accenture,United States,7612,Business Services
 2010-04-01,adidas,Germany,5660,Sporting Goods
@@ -12623,8 +12373,6 @@ Value ($ million)
 2010-04-01,Yahoo!,United States,4822,Media
 2010-04-01,Zara,Spain,7617,Apparel
 2010-04-01,ZURICH,Switzerland,3564,Financial Services
-
-100
 2010-05-01,3M,United States,3706,Diversified
 2010-05-01,Accenture,United States,7656,Business Services
 2010-05-01,adidas,Germany,5715,Sporting Goods
@@ -12725,8 +12473,6 @@ Value ($ million)
 2010-05-01,Yahoo!,United States,4776,Media
 2010-05-01,Zara,Spain,7667,Apparel
 2010-05-01,ZURICH,Switzerland,3587,Financial Services
-
-100
 2010-06-01,3M,United States,3736,Diversified
 2010-06-01,Accenture,United States,7699,Business Services
 2010-06-01,adidas,Germany,5770,Sporting Goods
@@ -12827,8 +12573,6 @@ Value ($ million)
 2010-06-01,Yahoo!,United States,4731,Media
 2010-06-01,Zara,Spain,7717,Apparel
 2010-06-01,ZURICH,Switzerland,3610,Financial Services
-
-100
 2010-07-01,3M,United States,3765,Diversified
 2010-07-01,Accenture,United States,7743,Business Services
 2010-07-01,adidas,Germany,5824,Sporting Goods
@@ -12929,8 +12673,6 @@ Value ($ million)
 2010-07-01,Yahoo!,United States,4686,Media
 2010-07-01,Zara,Spain,7766,Apparel
 2010-07-01,ZURICH,Switzerland,3632,Financial Services
-
-100
 2010-08-01,3M,United States,3795,Diversified
 2010-08-01,Accenture,United States,7787,Business Services
 2010-08-01,adidas,Germany,5879,Sporting Goods
@@ -13031,8 +12773,6 @@ Value ($ million)
 2010-08-01,Yahoo!,United States,4640,Media
 2010-08-01,Zara,Spain,7816,Apparel
 2010-08-01,ZURICH,Switzerland,3655,Financial Services
-
-100
 2010-09-01,3M,United States,3825,Diversified
 2010-09-01,Accenture,United States,7830,Business Services
 2010-09-01,adidas,Germany,5934,Sporting Goods
@@ -13133,8 +12873,6 @@ Value ($ million)
 2010-09-01,Yahoo!,United States,4595,Media
 2010-09-01,Zara,Spain,7866,Apparel
 2010-09-01,ZURICH,Switzerland,3678,Financial Services
-
-100
 2010-10-01,3M,United States,3855,Diversified
 2010-10-01,Accenture,United States,7874,Business Services
 2010-10-01,adidas,Germany,5989,Sporting Goods
@@ -13235,8 +12973,6 @@ Value ($ million)
 2010-10-01,Yahoo!,United States,4549,Media
 2010-10-01,Zara,Spain,7916,Apparel
 2010-10-01,ZURICH,Switzerland,3701,Financial Services
-
-100
 2010-11-01,3M,United States,3885,Diversified
 2010-11-01,Accenture,United States,7918,Business Services
 2010-11-01,adidas,Germany,6044,Sporting Goods
@@ -13337,8 +13073,6 @@ Value ($ million)
 2010-11-01,Yahoo!,United States,4504,Media
 2010-11-01,Zara,Spain,7965,Apparel
 2010-11-01,ZURICH,Switzerland,3723,Financial Services
-
-100
 2010-12-01,3M,United States,3915,Diversified
 2010-12-01,Accenture,United States,7961,Business Services
 2010-12-01,adidas,Germany,6099,Sporting Goods
@@ -13439,8 +13173,6 @@ Value ($ million)
 2010-12-01,Yahoo!,United States,4458,Media
 2010-12-01,Zara,Spain,8015,Apparel
 2010-12-01,ZURICH,Switzerland,3746,Financial Services
-
-100
 2011-01-01,3M,United States,3945,Diversified
 2011-01-01,Accenture,United States,8005,Business Services
 2011-01-01,adidas,Germany,6154,Sporting Goods
@@ -13541,8 +13273,6 @@ Value ($ million)
 2011-01-01,Yahoo!,United States,4413,Media
 2011-01-01,Zara,Spain,8065,Apparel
 2011-01-01,ZURICH,Switzerland,3769,Financial Services
-
-100
 2011-02-01,3M,United States,4004,Diversified
 2011-02-01,Accenture,United States,8067,Business Services
 2011-02-01,adidas,Germany,6199,Sporting Goods
@@ -13643,8 +13373,6 @@ Value ($ million)
 2011-02-01,Xerox,United States,6439,Business Services
 2011-02-01,Yahoo!,United States,4366,Media
 2011-02-01,Zara,Spain,8184,Apparel
-
-100
 2011-03-01,3M,United States,4063,Diversified
 2011-03-01,Accenture,United States,8128,Business Services
 2011-03-01,adidas,Germany,6245,Sporting Goods
@@ -13745,8 +13473,6 @@ Value ($ million)
 2011-03-01,Xerox,United States,6464,Business Services
 2011-03-01,Yahoo!,United States,4319,Media
 2011-03-01,Zara,Spain,8302,Apparel
-
-100
 2011-04-01,3M,United States,4123,Diversified
 2011-04-01,Accenture,United States,8190,Business Services
 2011-04-01,adidas,Germany,6290,Sporting Goods
@@ -13847,8 +13573,6 @@ Value ($ million)
 2011-04-01,Xerox,United States,6489,Business Services
 2011-04-01,Yahoo!,United States,4273,Media
 2011-04-01,Zara,Spain,8421,Apparel
-
-100
 2011-05-01,3M,United States,4182,Diversified
 2011-05-01,Accenture,United States,8252,Business Services
 2011-05-01,adidas,Germany,6336,Sporting Goods
@@ -13949,8 +13673,6 @@ Value ($ million)
 2011-05-01,Xerox,United States,6514,Business Services
 2011-05-01,Yahoo!,United States,4226,Media
 2011-05-01,Zara,Spain,8539,Apparel
-
-100
 2011-06-01,3M,United States,4241,Diversified
 2011-06-01,Accenture,United States,8313,Business Services
 2011-06-01,adidas,Germany,6381,Sporting Goods
@@ -14051,8 +13773,6 @@ Value ($ million)
 2011-06-01,Xerox,United States,6539,Business Services
 2011-06-01,Yahoo!,United States,4179,Media
 2011-06-01,Zara,Spain,8658,Apparel
-
-100
 2011-07-01,3M,United States,4300,Diversified
 2011-07-01,Accenture,United States,8375,Business Services
 2011-07-01,adidas,Germany,6426,Sporting Goods
@@ -14153,8 +13873,6 @@ Value ($ million)
 2011-07-01,Xerox,United States,6564,Business Services
 2011-07-01,Yahoo!,United States,4132,Media
 2011-07-01,Zara,Spain,8776,Apparel
-
-100
 2011-08-01,3M,United States,4360,Diversified
 2011-08-01,Accenture,United States,8437,Business Services
 2011-08-01,adidas,Germany,6472,Sporting Goods
@@ -14255,8 +13973,6 @@ Value ($ million)
 2011-08-01,Xerox,United States,6589,Business Services
 2011-08-01,Yahoo!,United States,4085,Media
 2011-08-01,Zara,Spain,8895,Apparel
-
-100
 2011-09-01,3M,United States,4419,Diversified
 2011-09-01,Accenture,United States,8498,Business Services
 2011-09-01,adidas,Germany,6517,Sporting Goods
@@ -14357,8 +14073,6 @@ Value ($ million)
 2011-09-01,Xerox,United States,6614,Business Services
 2011-09-01,Yahoo!,United States,4038,Media
 2011-09-01,Zara,Spain,9014,Apparel
-
-100
 2011-10-01,3M,United States,4478,Diversified
 2011-10-01,Accenture,United States,8560,Business Services
 2011-10-01,adidas,Germany,6563,Sporting Goods
@@ -14459,8 +14173,6 @@ Value ($ million)
 2011-10-01,Xerox,United States,6639,Business Services
 2011-10-01,Yahoo!,United States,3992,Media
 2011-10-01,Zara,Spain,9132,Apparel
-
-100
 2011-11-01,3M,United States,4537,Diversified
 2011-11-01,Accenture,United States,8622,Business Services
 2011-11-01,adidas,Germany,6608,Sporting Goods
@@ -14561,8 +14273,6 @@ Value ($ million)
 2011-11-01,Xerox,United States,6664,Business Services
 2011-11-01,Yahoo!,United States,3945,Media
 2011-11-01,Zara,Spain,9251,Apparel
-
-100
 2011-12-01,3M,United States,4597,Diversified
 2011-12-01,Accenture,United States,8683,Business Services
 2011-12-01,adidas,Germany,6654,Sporting Goods
@@ -14663,8 +14373,6 @@ Value ($ million)
 2011-12-01,Xerox,United States,6689,Business Services
 2011-12-01,Yahoo!,United States,3898,Media
 2011-12-01,Zara,Spain,9369,Apparel
-
-100
 2012-01-01,3M,United States,4656,Diversified
 2012-01-01,Accenture,United States,8745,Business Services
 2012-01-01,adidas,Germany,6699,Sporting Goods
@@ -14765,8 +14473,6 @@ Value ($ million)
 2012-01-01,Xerox,United States,6714,Business Services
 2012-01-01,Yahoo!,United States,3851,Media
 2012-01-01,Zara,Spain,9488,Apparel
-
-100
 2012-02-01,3M,United States,4719,Diversified
 2012-02-01,Accenture,United States,8805,Business Services
 2012-02-01,adidas,Germany,6769,Sporting Goods
@@ -14867,8 +14573,6 @@ Value ($ million)
 2012-02-01,Volkswagen,Germany,9408,Automotive
 2012-02-01,Xerox,United States,6719,Business Services
 2012-02-01,Zara,Spain,9599,Apparel
-
-100
 2012-03-01,3M,United States,4782,Diversified
 2012-03-01,Accenture,United States,8866,Business Services
 2012-03-01,adidas,Germany,6838,Sporting Goods
@@ -14969,8 +14673,6 @@ Value ($ million)
 2012-03-01,Volkswagen,Germany,9563,Automotive
 2012-03-01,Xerox,United States,6725,Business Services
 2012-03-01,Zara,Spain,9710,Apparel
-
-100
 2012-04-01,3M,United States,4845,Diversified
 2012-04-01,Accenture,United States,8926,Business Services
 2012-04-01,adidas,Germany,6908,Sporting Goods
@@ -15071,8 +14773,6 @@ Value ($ million)
 2012-04-01,Volkswagen,Germany,9719,Automotive
 2012-04-01,Xerox,United States,6730,Business Services
 2012-04-01,Zara,Spain,9821,Apparel
-
-100
 2012-05-01,3M,United States,4908,Diversified
 2012-05-01,Accenture,United States,8987,Business Services
 2012-05-01,adidas,Germany,6978,Sporting Goods
@@ -15173,8 +14873,6 @@ Value ($ million)
 2012-05-01,Volkswagen,Germany,9875,Automotive
 2012-05-01,Xerox,United States,6736,Business Services
 2012-05-01,Zara,Spain,9932,Apparel
-
-100
 2012-06-01,3M,United States,4971,Diversified
 2012-06-01,Accenture,United States,9047,Business Services
 2012-06-01,adidas,Germany,7047,Sporting Goods
@@ -15275,8 +14973,6 @@ Value ($ million)
 2012-06-01,Volkswagen,Germany,10030,Automotive
 2012-06-01,Xerox,United States,6741,Business Services
 2012-06-01,Zara,Spain,10043,Apparel
-
-100
 2012-07-01,3M,United States,5034,Diversified
 2012-07-01,Accenture,United States,9108,Business Services
 2012-07-01,adidas,Germany,7117,Sporting Goods
@@ -15377,8 +15073,6 @@ Value ($ million)
 2012-07-01,Volkswagen,Germany,10186,Automotive
 2012-07-01,Xerox,United States,6746,Business Services
 2012-07-01,Zara,Spain,10154,Apparel
-
-100
 2012-08-01,3M,United States,5098,Diversified
 2012-08-01,Accenture,United States,9168,Business Services
 2012-08-01,adidas,Germany,7187,Sporting Goods
@@ -15479,8 +15173,6 @@ Value ($ million)
 2012-08-01,Volkswagen,Germany,10342,Automotive
 2012-08-01,Xerox,United States,6752,Business Services
 2012-08-01,Zara,Spain,10266,Apparel
-
-100
 2012-09-01,3M,United States,5161,Diversified
 2012-09-01,Accenture,United States,9229,Business Services
 2012-09-01,adidas,Germany,7256,Sporting Goods
@@ -15581,8 +15273,6 @@ Value ($ million)
 2012-09-01,Volkswagen,Germany,10497,Automotive
 2012-09-01,Xerox,United States,6757,Business Services
 2012-09-01,Zara,Spain,10377,Apparel
-
-100
 2012-10-01,3M,United States,5224,Diversified
 2012-10-01,Accenture,United States,9289,Business Services
 2012-10-01,adidas,Germany,7326,Sporting Goods
@@ -15683,8 +15373,6 @@ Value ($ million)
 2012-10-01,Volkswagen,Germany,10653,Automotive
 2012-10-01,Xerox,United States,6763,Business Services
 2012-10-01,Zara,Spain,10488,Apparel
-
-100
 2012-11-01,3M,United States,5287,Diversified
 2012-11-01,Accenture,United States,9350,Business Services
 2012-11-01,adidas,Germany,7396,Sporting Goods
@@ -15785,8 +15473,6 @@ Value ($ million)
 2012-11-01,Volkswagen,Germany,10809,Automotive
 2012-11-01,Xerox,United States,6768,Business Services
 2012-11-01,Zara,Spain,10599,Apparel
-
-100
 2012-12-01,3M,United States,5350,Diversified
 2012-12-01,Accenture,United States,9410,Business Services
 2012-12-01,adidas,Germany,7465,Sporting Goods
@@ -15887,8 +15573,6 @@ Value ($ million)
 2012-12-01,Volkswagen,Germany,10964,Automotive
 2012-12-01,Xerox,United States,6774,Business Services
 2012-12-01,Zara,Spain,10710,Apparel
-
-100
 2013-01-01,3M,United States,5413,Diversified
 2013-01-01,Accenture,United States,9471,Business Services
 2013-01-01,adidas,Germany,7535,Sporting Goods
@@ -15989,8 +15673,6 @@ Value ($ million)
 2013-01-01,Volkswagen,Germany,11120,Automotive
 2013-01-01,Xerox,United States,6779,Business Services
 2013-01-01,Zara,Spain,10821,Apparel
-
-100
 2013-02-01,3M,United States,5477,Diversified
 2013-02-01,Accenture,United States,9505,Business Services
 2013-02-01,adidas,Germany,7522,Sporting Goods
@@ -16091,8 +15773,6 @@ Value ($ million)
 2013-02-01,Volkswagen,Germany,11336,Automotive
 2013-02-01,Xerox,United States,6768,Business Services
 2013-02-01,Zara,Spain,10930,Apparel
-
-100
 2013-03-01,3M,United States,5540,Diversified
 2013-03-01,Accenture,United States,9539,Business Services
 2013-03-01,adidas,Germany,7509,Sporting Goods
@@ -16193,8 +15873,6 @@ Value ($ million)
 2013-03-01,Volkswagen,Germany,11553,Automotive
 2013-03-01,Xerox,United States,6756,Business Services
 2013-03-01,Zara,Spain,11038,Apparel
-
-100
 2013-04-01,3M,United States,5604,Diversified
 2013-04-01,Accenture,United States,9574,Business Services
 2013-04-01,adidas,Germany,7496,Sporting Goods
@@ -16295,8 +15973,6 @@ Value ($ million)
 2013-04-01,Volkswagen,Germany,11769,Automotive
 2013-04-01,Xerox,United States,6745,Business Services
 2013-04-01,Zara,Spain,11147,Apparel
-
-100
 2013-05-01,3M,United States,5668,Diversified
 2013-05-01,Accenture,United States,9608,Business Services
 2013-05-01,adidas,Germany,7483,Sporting Goods
@@ -16397,8 +16073,6 @@ Value ($ million)
 2013-05-01,Volkswagen,Germany,11985,Automotive
 2013-05-01,Xerox,United States,6733,Business Services
 2013-05-01,Zara,Spain,11256,Apparel
-
-100
 2013-06-01,3M,United States,5731,Diversified
 2013-06-01,Accenture,United States,9642,Business Services
 2013-06-01,adidas,Germany,7470,Sporting Goods
@@ -16499,8 +16173,6 @@ Value ($ million)
 2013-06-01,Volkswagen,Germany,12202,Automotive
 2013-06-01,Xerox,United States,6722,Business Services
 2013-06-01,Zara,Spain,11365,Apparel
-
-100
 2013-07-01,3M,United States,5795,Diversified
 2013-07-01,Accenture,United States,9676,Business Services
 2013-07-01,adidas,Germany,7457,Sporting Goods
@@ -16601,8 +16273,6 @@ Value ($ million)
 2013-07-01,Volkswagen,Germany,12418,Automotive
 2013-07-01,Xerox,United States,6710,Business Services
 2013-07-01,Zara,Spain,11473,Apparel
-
-100
 2013-08-01,3M,United States,5859,Diversified
 2013-08-01,Accenture,United States,9711,Business Services
 2013-08-01,adidas,Germany,7443,Sporting Goods
@@ -16703,8 +16373,6 @@ Value ($ million)
 2013-08-01,Volkswagen,Germany,12634,Automotive
 2013-08-01,Xerox,United States,6699,Business Services
 2013-08-01,Zara,Spain,11582,Apparel
-
-100
 2013-09-01,3M,United States,5922,Diversified
 2013-09-01,Accenture,United States,9745,Business Services
 2013-09-01,adidas,Germany,7430,Sporting Goods
@@ -16805,8 +16473,6 @@ Value ($ million)
 2013-09-01,Volkswagen,Germany,12851,Automotive
 2013-09-01,Xerox,United States,6687,Business Services
 2013-09-01,Zara,Spain,11691,Apparel
-
-100
 2013-10-01,3M,United States,5986,Diversified
 2013-10-01,Accenture,United States,9779,Business Services
 2013-10-01,adidas,Germany,7417,Sporting Goods
@@ -16907,8 +16573,6 @@ Value ($ million)
 2013-10-01,Volkswagen,Germany,13067,Automotive
 2013-10-01,Xerox,United States,6676,Business Services
 2013-10-01,Zara,Spain,11800,Apparel
-
-100
 2013-11-01,3M,United States,6050,Diversified
 2013-11-01,Accenture,United States,9813,Business Services
 2013-11-01,adidas,Germany,7404,Sporting Goods
@@ -17009,8 +16673,6 @@ Value ($ million)
 2013-11-01,Volkswagen,Germany,13283,Automotive
 2013-11-01,Xerox,United States,6664,Business Services
 2013-11-01,Zara,Spain,11908,Apparel
-
-100
 2013-12-01,3M,United States,6113,Diversified
 2013-12-01,Accenture,United States,9848,Business Services
 2013-12-01,adidas,Germany,7391,Sporting Goods
@@ -17111,8 +16773,6 @@ Value ($ million)
 2013-12-01,Volkswagen,Germany,13500,Automotive
 2013-12-01,Xerox,United States,6653,Business Services
 2013-12-01,Zara,Spain,12017,Apparel
-
-100
 2014-01-01,3M,United States,6177,Diversified
 2014-01-01,Accenture,United States,9882,Business Services
 2014-01-01,adidas,Germany,7378,Sporting Goods
@@ -17213,8 +16873,6 @@ Value ($ million)
 2014-01-01,Volkswagen,Germany,13716,Automotive
 2014-01-01,Xerox,United States,6641,Business Services
 2014-01-01,Zara,Spain,12126,Apparel
-
-100
 2014-02-01,3M,United States,6266,Diversified
 2014-02-01,Accenture,United States,9958,Business Services
 2014-02-01,adidas,Germany,7331,Sporting Goods
@@ -17315,8 +16973,6 @@ Value ($ million)
 2014-02-01,Volkswagen,Germany,13618,Automotive
 2014-02-01,Xerox,United States,6590,Business Services
 2014-02-01,Zara,Spain,12285,Apparel
-
-100
 2014-03-01,3M,United States,6355,Diversified
 2014-03-01,Accenture,United States,10035,Business Services
 2014-03-01,adidas,Germany,7284,Sporting Goods
@@ -17417,8 +17073,6 @@ Value ($ million)
 2014-03-01,Volkswagen,Germany,13521,Automotive
 2014-03-01,Xerox,United States,6540,Business Services
 2014-03-01,Zara,Spain,12443,Apparel
-
-100
 2014-04-01,3M,United States,6443,Diversified
 2014-04-01,Accenture,United States,10111,Business Services
 2014-04-01,adidas,Germany,7236,Sporting Goods
@@ -17519,8 +17173,6 @@ Value ($ million)
 2014-04-01,Volkswagen,Germany,13423,Automotive
 2014-04-01,Xerox,United States,6489,Business Services
 2014-04-01,Zara,Spain,12602,Apparel
-
-100
 2014-05-01,3M,United States,6532,Diversified
 2014-05-01,Accenture,United States,10188,Business Services
 2014-05-01,adidas,Germany,7189,Sporting Goods
@@ -17621,8 +17273,6 @@ Value ($ million)
 2014-05-01,Volkswagen,Germany,13326,Automotive
 2014-05-01,Xerox,United States,6438,Business Services
 2014-05-01,Zara,Spain,12761,Apparel
-
-100
 2014-06-01,3M,United States,6621,Diversified
 2014-06-01,Accenture,United States,10264,Business Services
 2014-06-01,adidas,Germany,7142,Sporting Goods
@@ -17723,8 +17373,6 @@ Value ($ million)
 2014-06-01,Volkswagen,Germany,13228,Automotive
 2014-06-01,Xerox,United States,6388,Business Services
 2014-06-01,Zara,Spain,12920,Apparel
-
-100
 2014-07-01,3M,United States,6710,Diversified
 2014-07-01,Accenture,United States,10341,Business Services
 2014-07-01,adidas,Germany,7095,Sporting Goods
@@ -17825,8 +17473,6 @@ Value ($ million)
 2014-07-01,Volkswagen,Germany,13131,Automotive
 2014-07-01,Xerox,United States,6337,Business Services
 2014-07-01,Zara,Spain,13078,Apparel
-
-100
 2014-08-01,3M,United States,6799,Diversified
 2014-08-01,Accenture,United States,10417,Business Services
 2014-08-01,adidas,Germany,7047,Sporting Goods
@@ -17927,8 +17573,6 @@ Value ($ million)
 2014-08-01,Volkswagen,Germany,13033,Automotive
 2014-08-01,Xerox,United States,6286,Business Services
 2014-08-01,Zara,Spain,13237,Apparel
-
-100
 2014-09-01,3M,United States,6888,Diversified
 2014-09-01,Accenture,United States,10494,Business Services
 2014-09-01,adidas,Germany,7000,Sporting Goods
@@ -18029,8 +17673,6 @@ Value ($ million)
 2014-09-01,Volkswagen,Germany,12935,Automotive
 2014-09-01,Xerox,United States,6236,Business Services
 2014-09-01,Zara,Spain,13396,Apparel
-
-100
 2014-10-01,3M,United States,6976,Diversified
 2014-10-01,Accenture,United States,10570,Business Services
 2014-10-01,adidas,Germany,6953,Sporting Goods
@@ -18131,8 +17773,6 @@ Value ($ million)
 2014-10-01,Volkswagen,Germany,12838,Automotive
 2014-10-01,Xerox,United States,6185,Business Services
 2014-10-01,Zara,Spain,13555,Apparel
-
-100
 2014-11-01,3M,United States,7065,Diversified
 2014-11-01,Accenture,United States,10647,Business Services
 2014-11-01,adidas,Germany,6906,Sporting Goods
@@ -18233,8 +17873,6 @@ Value ($ million)
 2014-11-01,Volkswagen,Germany,12740,Automotive
 2014-11-01,Xerox,United States,6134,Business Services
 2014-11-01,Zara,Spain,13713,Apparel
-
-100
 2014-12-01,3M,United States,7154,Diversified
 2014-12-01,Accenture,United States,10723,Business Services
 2014-12-01,adidas,Germany,6858,Sporting Goods
@@ -18335,8 +17973,6 @@ Value ($ million)
 2014-12-01,Volkswagen,Germany,12643,Automotive
 2014-12-01,Xerox,United States,6084,Business Services
 2014-12-01,Zara,Spain,13872,Apparel
-
-100
 2015-01-01,3M,United States,7243,Diversified
 2015-01-01,Accenture,United States,10800,Business Services
 2015-01-01,adidas,Germany,6811,Sporting Goods
@@ -18437,8 +18073,6 @@ Value ($ million)
 2015-01-01,Volkswagen,Germany,12545,Automotive
 2015-01-01,Xerox,United States,6033,Business Services
 2015-01-01,Zara,Spain,14031,Apparel
-
-100
 2015-02-01,3M,United States,7323,Diversified
 2015-02-01,Accenture,United States,10903,Business Services
 2015-02-01,adidas,Germany,6900,Sporting Goods
@@ -18539,8 +18173,6 @@ Value ($ million)
 2015-02-01,Volkswagen,Germany,12453,Automotive
 2015-02-01,Xerox,United States,5971,Business Services
 2015-02-01,Zara,Spain,14259,Apparel
-
-100
 2015-03-01,3M,United States,7402,Diversified
 2015-03-01,Accenture,United States,11005,Business Services
 2015-03-01,adidas,Germany,6990,Sporting Goods
@@ -18641,8 +18273,6 @@ Value ($ million)
 2015-03-01,Volkswagen,Germany,12360,Automotive
 2015-03-01,Xerox,United States,5909,Business Services
 2015-03-01,Zara,Spain,14487,Apparel
-
-100
 2015-04-01,3M,United States,7482,Diversified
 2015-04-01,Accenture,United States,11108,Business Services
 2015-04-01,adidas,Germany,7079,Sporting Goods
@@ -18743,8 +18373,6 @@ Value ($ million)
 2015-04-01,Volkswagen,Germany,12268,Automotive
 2015-04-01,Xerox,United States,5847,Business Services
 2015-04-01,Zara,Spain,14715,Apparel
-
-100
 2015-05-01,3M,United States,7562,Diversified
 2015-05-01,Accenture,United States,11211,Business Services
 2015-05-01,adidas,Germany,7169,Sporting Goods
@@ -18845,8 +18473,6 @@ Value ($ million)
 2015-05-01,Volkswagen,Germany,12175,Automotive
 2015-05-01,Xerox,United States,5785,Business Services
 2015-05-01,Zara,Spain,14943,Apparel
-
-100
 2015-06-01,3M,United States,7641,Diversified
 2015-06-01,Accenture,United States,11314,Business Services
 2015-06-01,adidas,Germany,7258,Sporting Goods
@@ -18947,8 +18573,6 @@ Value ($ million)
 2015-06-01,Volkswagen,Germany,12083,Automotive
 2015-06-01,Xerox,United States,5723,Business Services
 2015-06-01,Zara,Spain,15171,Apparel
-
-100
 2015-07-01,3M,United States,7721,Diversified
 2015-07-01,Accenture,United States,11416,Business Services
 2015-07-01,adidas,Germany,7348,Sporting Goods
@@ -19049,8 +18673,6 @@ Value ($ million)
 2015-07-01,Volkswagen,Germany,11991,Automotive
 2015-07-01,Xerox,United States,5662,Business Services
 2015-07-01,Zara,Spain,15398,Apparel
-
-100
 2015-08-01,3M,United States,7801,Diversified
 2015-08-01,Accenture,United States,11519,Business Services
 2015-08-01,adidas,Germany,7437,Sporting Goods
@@ -19151,8 +18773,6 @@ Value ($ million)
 2015-08-01,Volkswagen,Germany,11898,Automotive
 2015-08-01,Xerox,United States,5600,Business Services
 2015-08-01,Zara,Spain,15626,Apparel
-
-100
 2015-09-01,3M,United States,7880,Diversified
 2015-09-01,Accenture,United States,11622,Business Services
 2015-09-01,adidas,Germany,7527,Sporting Goods
@@ -19253,8 +18873,6 @@ Value ($ million)
 2015-09-01,Volkswagen,Germany,11806,Automotive
 2015-09-01,Xerox,United States,5538,Business Services
 2015-09-01,Zara,Spain,15854,Apparel
-
-100
 2015-10-01,3M,United States,7960,Diversified
 2015-10-01,Accenture,United States,11725,Business Services
 2015-10-01,adidas,Germany,7616,Sporting Goods
@@ -19355,8 +18973,6 @@ Value ($ million)
 2015-10-01,Volkswagen,Germany,11713,Automotive
 2015-10-01,Xerox,United States,5476,Business Services
 2015-10-01,Zara,Spain,16082,Apparel
-
-100
 2015-11-01,3M,United States,8040,Diversified
 2015-11-01,Accenture,United States,11827,Business Services
 2015-11-01,adidas,Germany,7706,Sporting Goods
@@ -19457,8 +19073,6 @@ Value ($ million)
 2015-11-01,Volkswagen,Germany,11621,Automotive
 2015-11-01,Xerox,United States,5414,Business Services
 2015-11-01,Zara,Spain,16310,Apparel
-
-100
 2015-12-01,3M,United States,8119,Diversified
 2015-12-01,Accenture,United States,11930,Business Services
 2015-12-01,adidas,Germany,7795,Sporting Goods
@@ -19559,8 +19173,6 @@ Value ($ million)
 2015-12-01,Volkswagen,Germany,11528,Automotive
 2015-12-01,Xerox,United States,5352,Business Services
 2015-12-01,Zara,Spain,16538,Apparel
-
-100
 2016-01-01,3M,United States,8199,Diversified
 2016-01-01,Accenture,United States,12033,Business Services
 2016-01-01,adidas,Germany,7885,Sporting Goods
@@ -19661,8 +19273,6 @@ Value ($ million)
 2016-01-01,Volkswagen,Germany,11436,Automotive
 2016-01-01,Xerox,United States,5290,Business Services
 2016-01-01,Zara,Spain,16766,Apparel
-
-100
 2016-02-01,3M,United States,8261,Diversified
 2016-02-01,Accenture,United States,12069,Business Services
 2016-02-01,adidas,Germany,7996,Sporting Goods
@@ -19763,8 +19373,6 @@ Value ($ million)
 2016-02-01,Visa,United States,7753,Financial Services
 2016-02-01,Volkswagen,Germany,11443,Automotive
 2016-02-01,Zara,Spain,16917,Apparel
-
-100
 2016-03-01,3M,United States,8324,Diversified
 2016-03-01,Accenture,United States,12106,Business Services
 2016-03-01,adidas,Germany,8107,Sporting Goods
@@ -19865,8 +19473,6 @@ Value ($ million)
 2016-03-01,Visa,United States,7758,Financial Services
 2016-03-01,Volkswagen,Germany,11450,Automotive
 2016-03-01,Zara,Spain,17067,Apparel
-
-100
 2016-04-01,3M,United States,8386,Diversified
 2016-04-01,Accenture,United States,12142,Business Services
 2016-04-01,adidas,Germany,8218,Sporting Goods
@@ -19967,8 +19573,6 @@ Value ($ million)
 2016-04-01,Visa,United States,7764,Financial Services
 2016-04-01,Volkswagen,Germany,11457,Automotive
 2016-04-01,Zara,Spain,17218,Apparel
-
-100
 2016-05-01,3M,United States,8448,Diversified
 2016-05-01,Accenture,United States,12179,Business Services
 2016-05-01,adidas,Germany,8329,Sporting Goods
@@ -20069,8 +19673,6 @@ Value ($ million)
 2016-05-01,Visa,United States,7770,Financial Services
 2016-05-01,Volkswagen,Germany,11465,Automotive
 2016-05-01,Zara,Spain,17368,Apparel
-
-100
 2016-06-01,3M,United States,8511,Diversified
 2016-06-01,Accenture,United States,12215,Business Services
 2016-06-01,adidas,Germany,8440,Sporting Goods
@@ -20171,8 +19773,6 @@ Value ($ million)
 2016-06-01,Visa,United States,7775,Financial Services
 2016-06-01,Volkswagen,Germany,11472,Automotive
 2016-06-01,Zara,Spain,17519,Apparel
-
-100
 2016-07-01,3M,United States,8573,Diversified
 2016-07-01,Accenture,United States,12252,Business Services
 2016-07-01,adidas,Germany,8550,Sporting Goods
@@ -20273,8 +19873,6 @@ Value ($ million)
 2016-07-01,Visa,United States,7781,Financial Services
 2016-07-01,Volkswagen,Germany,11479,Automotive
 2016-07-01,Zara,Spain,17669,Apparel
-
-100
 2016-08-01,3M,United States,8635,Diversified
 2016-08-01,Accenture,United States,12288,Business Services
 2016-08-01,adidas,Germany,8661,Sporting Goods
@@ -20375,8 +19973,6 @@ Value ($ million)
 2016-08-01,Visa,United States,7787,Financial Services
 2016-08-01,Volkswagen,Germany,11486,Automotive
 2016-08-01,Zara,Spain,17820,Apparel
-
-100
 2016-09-01,3M,United States,8698,Diversified
 2016-09-01,Accenture,United States,12325,Business Services
 2016-09-01,adidas,Germany,8772,Sporting Goods
@@ -20477,8 +20073,6 @@ Value ($ million)
 2016-09-01,Visa,United States,7792,Financial Services
 2016-09-01,Volkswagen,Germany,11493,Automotive
 2016-09-01,Zara,Spain,17971,Apparel
-
-100
 2016-10-01,3M,United States,8760,Diversified
 2016-10-01,Accenture,United States,12361,Business Services
 2016-10-01,adidas,Germany,8883,Sporting Goods
@@ -20579,8 +20173,6 @@ Value ($ million)
 2016-10-01,Visa,United States,7798,Financial Services
 2016-10-01,Volkswagen,Germany,11500,Automotive
 2016-10-01,Zara,Spain,18121,Apparel
-
-100
 2016-11-01,3M,United States,8822,Diversified
 2016-11-01,Accenture,United States,12398,Business Services
 2016-11-01,adidas,Germany,8994,Sporting Goods
@@ -20681,8 +20273,6 @@ Value ($ million)
 2016-11-01,Visa,United States,7804,Financial Services
 2016-11-01,Volkswagen,Germany,11508,Automotive
 2016-11-01,Zara,Spain,18272,Apparel
-
-100
 2016-12-01,3M,United States,8885,Diversified
 2016-12-01,Accenture,United States,12434,Business Services
 2016-12-01,adidas,Germany,9105,Sporting Goods
@@ -20783,8 +20373,6 @@ Value ($ million)
 2016-12-01,Visa,United States,7809,Financial Services
 2016-12-01,Volkswagen,Germany,11515,Automotive
 2016-12-01,Zara,Spain,18422,Apparel
-
-100
 2017-01-01,3M,United States,8947,Diversified
 2017-01-01,Accenture,United States,12471,Business Services
 2017-01-01,adidas,Germany,9216,Sporting Goods
@@ -20885,8 +20473,6 @@ Value ($ million)
 2017-01-01,Visa,United States,7815,Financial Services
 2017-01-01,Volkswagen,Germany,11522,Automotive
 2017-01-01,Zara,Spain,18573,Apparel
-
-100
 2017-02-01,3M,United States,8960,Diversified
 2017-02-01,Accenture,United States,12616,Business Services
 2017-02-01,adidas,Germany,9346,Sporting Goods
@@ -20987,8 +20573,6 @@ Value ($ million)
 2017-02-01,Visa,United States,7915,Financial Services
 2017-02-01,Volkswagen,Germany,11579,Automotive
 2017-02-01,Zara,Spain,18501,Apparel
-
-100
 2017-03-01,3M,United States,8973,Diversified
 2017-03-01,Accenture,United States,12761,Business Services
 2017-03-01,adidas,Germany,9475,Sporting Goods
@@ -21089,8 +20673,6 @@ Value ($ million)
 2017-03-01,Visa,United States,8016,Financial Services
 2017-03-01,Volkswagen,Germany,11635,Automotive
 2017-03-01,Zara,Spain,18430,Apparel
-
-100
 2017-04-01,3M,United States,8986,Diversified
 2017-04-01,Accenture,United States,12907,Business Services
 2017-04-01,adidas,Germany,9605,Sporting Goods
@@ -21191,8 +20773,6 @@ Value ($ million)
 2017-04-01,Visa,United States,8116,Financial Services
 2017-04-01,Volkswagen,Germany,11692,Automotive
 2017-04-01,Zara,Spain,18358,Apparel
-
-100
 2017-05-01,3M,United States,8999,Diversified
 2017-05-01,Accenture,United States,13052,Business Services
 2017-05-01,adidas,Germany,9735,Sporting Goods
@@ -21293,8 +20873,6 @@ Value ($ million)
 2017-05-01,Visa,United States,8217,Financial Services
 2017-05-01,Volkswagen,Germany,11748,Automotive
 2017-05-01,Zara,Spain,18286,Apparel
-
-100
 2017-06-01,3M,United States,9012,Diversified
 2017-06-01,Accenture,United States,13197,Business Services
 2017-06-01,adidas,Germany,9864,Sporting Goods
@@ -21395,8 +20973,6 @@ Value ($ million)
 2017-06-01,Visa,United States,8317,Financial Services
 2017-06-01,Volkswagen,Germany,11805,Automotive
 2017-06-01,Zara,Spain,18214,Apparel
-
-100
 2017-07-01,3M,United States,9025,Diversified
 2017-07-01,Accenture,United States,13342,Business Services
 2017-07-01,adidas,Germany,9994,Sporting Goods
@@ -21497,8 +21073,6 @@ Value ($ million)
 2017-07-01,Visa,United States,8418,Financial Services
 2017-07-01,Volkswagen,Germany,11861,Automotive
 2017-07-01,Zara,Spain,18143,Apparel
-
-100
 2017-08-01,3M,United States,9039,Diversified
 2017-08-01,Accenture,United States,13488,Business Services
 2017-08-01,adidas,Germany,10124,Sporting Goods
@@ -21599,8 +21173,6 @@ Value ($ million)
 2017-08-01,Visa,United States,8518,Financial Services
 2017-08-01,Volkswagen,Germany,11918,Automotive
 2017-08-01,Zara,Spain,18071,Apparel
-
-100
 2017-09-01,3M,United States,9052,Diversified
 2017-09-01,Accenture,United States,13633,Business Services
 2017-09-01,adidas,Germany,10253,Sporting Goods
@@ -21701,8 +21273,6 @@ Value ($ million)
 2017-09-01,Visa,United States,8619,Financial Services
 2017-09-01,Volkswagen,Germany,11975,Automotive
 2017-09-01,Zara,Spain,17999,Apparel
-
-100
 2017-10-01,3M,United States,9065,Diversified
 2017-10-01,Accenture,United States,13778,Business Services
 2017-10-01,adidas,Germany,10383,Sporting Goods
@@ -21803,8 +21373,6 @@ Value ($ million)
 2017-10-01,Visa,United States,8719,Financial Services
 2017-10-01,Volkswagen,Germany,12031,Automotive
 2017-10-01,Zara,Spain,17927,Apparel
-
-100
 2017-11-01,3M,United States,9078,Diversified
 2017-11-01,Accenture,United States,13923,Business Services
 2017-11-01,adidas,Germany,10513,Sporting Goods
@@ -21905,8 +21473,6 @@ Value ($ million)
 2017-11-01,Visa,United States,8820,Financial Services
 2017-11-01,Volkswagen,Germany,12088,Automotive
 2017-11-01,Zara,Spain,17856,Apparel
-
-100
 2017-12-01,3M,United States,9091,Diversified
 2017-12-01,Accenture,United States,14069,Business Services
 2017-12-01,adidas,Germany,10642,Sporting Goods
@@ -22007,8 +21573,6 @@ Value ($ million)
 2017-12-01,Visa,United States,8920,Financial Services
 2017-12-01,Volkswagen,Germany,12144,Automotive
 2017-12-01,Zara,Spain,17784,Apparel
-
-100
 2018-01-01,3M,United States,9104,Diversified
 2018-01-01,Accenture,United States,14214,Business Services
 2018-01-01,adidas,Germany,10772,Sporting Goods
