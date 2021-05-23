@@ -11,21 +11,18 @@ public class Bar implements Comparable <Bar>{
     }
     // Returns the category of this bar.
     public String getCategory(){
-
         return "";
-
     }
 
     // Returns the value of this bar.
     public int getValue(){
 
-        return 8;
+        return 0;
 
     }
     // Compares two bars by value.
     public int compareTo(Bar other){
-        return 8;
-
+        return 0;
     }
 //Feel free to add other necessary method
 }

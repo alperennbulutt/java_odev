@@ -1,8 +1,5 @@
 package sample;
 
-import javafx.application.Application;
-import javafx.scene.chart.CategoryAxis;
-import javafx.scene.chart.NumberAxis;
 
 public abstract class Chart  {
 
@@ -12,7 +9,6 @@ public abstract class Chart  {
     public Chart(String title, String xAxisLabel){
         this.title=title;
         this.xAxisLabel=xAxisLabel;
-
     }
 
     public Chart() {

@@ -5,8 +5,7 @@ public class Line {
 // Creates a new line.
     public Line(String name, int value, String category){
         name=this.getName();
-        value=this.nexValue();
-
+        value=this.nextValue();
         name=this.getCategory();
 
 
@@ -22,7 +21,7 @@ public class Line {
 
     }
     //Returns the next value of this line.
-    public int nexValue()
+    public int nextValue()
     {
         return  8 ;
 

@@ -1,4 +1,4 @@
-package sample;
+package sample.Data;
 
 public class BrandValuesParser {
 
