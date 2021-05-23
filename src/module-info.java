@@ -1,11 +1,7 @@
 module java.odev {
-    requires javafx.graphics;
     requires javafx.controls;
     requires javafx.fxml;
-    requires java.xml;
-    requires jdk.compiler;
-    requires javafx.swt;
-
-
-    opens sample to javafx.graphics;
+    opens sample;
+    opens sample.View;
+    opens sample.Data;
 }

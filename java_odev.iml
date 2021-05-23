@@ -6,8 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="openjdk-16" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="javafx.web" level="application" />
+    <orderEntry type="library" name="javafx.web" level="application" />
+    <orderEntry type="library" exported="" name="javafx-swt" level="project" />
   </component>
 </module>

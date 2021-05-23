@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+
+
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller.BarChartController" >
+    <children>
+        <BarChart fx:id="brChart" prefHeight="182.0" prefWidth="500.0" title="World's most valuable brands from 2000 to 2018">
+            <xAxis>
+                <CategoryAxis id="brandvalue" label="BRANDS" prefWidth="444.0" side="BOTTOM" />
+            </xAxis>
+            <yAxis>
+                <NumberAxis label="VALUE" side="LEFT" />
+            </yAxis>
+        </BarChart>
+    </children>
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+    </rowConstraints>
+</GridPane>

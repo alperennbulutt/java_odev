@@ -1,9 +1,10 @@
 package sample;
 
+import javafx.application.Application;
 import javafx.scene.chart.CategoryAxis;
 import javafx.scene.chart.NumberAxis;
 
-public abstract class Chart {
+public abstract class Chart  {
 
     private String title;
     private String xAxisLabel;
