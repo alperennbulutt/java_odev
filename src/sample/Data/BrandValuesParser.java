@@ -8,31 +8,39 @@ public class BrandValuesParser {
    private int value;
    private String department;
 
+
+    public BrandValuesParser(String date, String brand , String country ,int value , String department) {
+        this.date = date;
+        this.brand = brand;
+        this.country = country;
+        this.value = value;
+        this.department = department;
+    }
+
+
+
     public String getDate() {
         return date;
     }
 
-    public String setDate(String date) {
+    public void setDate(String date) {
         this.date = date;
-        return date.toString();
     }
 
-    public String getBrand(String value) {
+    public String getBrand() {
         return brand;
     }
 
-    public String setBrand(String brand) {
+    public void setBrand(String brand) {
         this.brand = brand;
-        return brand;
     }
 
     public String getCountry() {
         return country;
     }
 
-    public String setCountry(String country) {
+    public void setCountry(String country) {
         this.country = country;
-        return country;
     }
 
     public int getValue() {
@@ -47,14 +55,7 @@ public class BrandValuesParser {
         return department;
     }
 
-    public String setDepartment(String department) {
+    public void setDepartment(String department) {
         this.department = department;
-
-        return department;
     }
-
-    public BrandValuesParser() {
-
-    }
-
 }

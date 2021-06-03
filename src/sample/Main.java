@@ -4,6 +4,14 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import sample.Data.GetData;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 
 
 public class Main extends Application {
@@ -19,8 +27,16 @@ public class Main extends Application {
     }
 
     public static void main(String[] args)  {
-        launch(args);
+
+        GetData getData = new GetData();
+
+        getData.GetCountryPopulation();
+
+
+
+
+
+
+
     }
 }
-
-
