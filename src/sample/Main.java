@@ -27,10 +27,32 @@ public class Main extends Application {
     }
 
     public static void main(String[] args)  {
-
         GetData getData = new GetData();
 
+
+
+
+        // reading country populations
         getData.GetCountryPopulation();
+
+        // reading Brand Values
+        getData.GetBrandValue();
+
+
+
+        // reading City Populations values
+
+         getData.GetCityPopulations();
+
+
+
+
+
+        launch(args);
+
+
+
+
 
 
 

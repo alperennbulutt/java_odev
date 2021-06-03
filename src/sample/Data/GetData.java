@@ -1,22 +1,21 @@
 package sample.Data;
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-
-
-
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class GetData  {
+
+public class GetData {
+    //
 
 
     public static void GetCountryPopulation() {
@@ -40,26 +39,20 @@ public class GetData  {
             root.getChildNodes();
             System.out.println("Number of Countries: " + countryList.getLength());
 
-            for (int temp = 0; temp < countryList.getLength(); temp++)
-            {
+            for (int temp = 0; temp < countryList.getLength(); temp++) {
 
 
                 Node node = countryList.item(temp);
                 System.out.println(" ");
-                if (node.getNodeType() == Node.ELEMENT_NODE)
-                {
+                if (node.getNodeType() == Node.ELEMENT_NODE) {
 
-                    // Burada country_populations.xml dosyasından verileri çektiğimizi console ekranında gösterdik
 
                     Element eElement = (Element) node;
-                    System.out.println("Name : "  + eElement.getElementsByTagName("field").item(0).getTextContent());
-                    System.out.println("Country : "  + eElement.getElementsByTagName("field").item(1).getTextContent());
-                    System.out.println("Year : "  + eElement.getElementsByTagName("field").item(2).getTextContent());
-                    System.out.println("Value : "  + eElement.getElementsByTagName("field").item(3).getTextContent());
-                    System.out.println("Category : "  + eElement.getElementsByTagName("field").item(4).getTextContent());
-
-
-                     // name = eElement.getElementsByTagName("field").item(0).getTextContent();
+                    System.out.println("Name : " + eElement.getElementsByTagName("field").item(0).getTextContent());
+                    System.out.println("Country : " + eElement.getElementsByTagName("field").item(1).getTextContent());
+                    System.out.println("Year : " + eElement.getElementsByTagName("field").item(2).getTextContent());
+                    System.out.println("Value : " + eElement.getElementsByTagName("field").item(3).getTextContent());
+                    System.out.println("Category : " + eElement.getElementsByTagName("field").item(4).getTextContent());
 
 
 
@@ -74,7 +67,7 @@ public class GetData  {
     }
 
 
-    public static void GetCityPopulation() {
+    public static void GetBrandValue() {
 
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader("brand_values.txt"))) {
 
@@ -86,31 +79,70 @@ public class GetData  {
 
             while ((line = bufferedReader.readLine()) != null) {
 
-                //System.out.println(line);
 
                 String[] values = line.split(specialCharacter);
 
-                BrandValuesParser valuesBrand=new BrandValuesParser();
+                BrandValuesParser valuesBrand = new BrandValuesParser();
 
-                // valuesBrand.setValue(Integer.parseInt(values[3]));
 
-                //valuesBrand.setDate(Integer.parseInt(values[0]));
-                //valuesBrand.setBrand((values[1]));
-                //valuesBrand.setCountry((values[2]));
-                //valuesBrand.setValue(Integer.parseInt(values[3]));
-                //valuesBrand.setDepartment((values[4]));
-
-                String date=valuesBrand.setDate(values[0]);
-                String brand=valuesBrand.setBrand(values[1]);
-                String country=valuesBrand.setCountry(values[2]);
-                String value=valuesBrand.setBrand(values[3]);
-                String department=valuesBrand.setDepartment(values[4]);
-                System.out.println(brand);
+                String date = valuesBrand.Date(values[0]);
+                String brand = valuesBrand.Brand(values[1]);
+                String country = valuesBrand.Country(values[2]);
+                String value = valuesBrand.Brand(values[3]);
+                String department = valuesBrand.Department(values[4]);
+                System.out.println(date+brand+country+value+department);
 
 
             }
 
 
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 
+    public static void GetCityPopulations() {
+
+        try (BufferedReader bufferedReader = new BufferedReader(new FileReader("city_populations.txt"))) {
+
+            String line = null;
+
+            String specialCharacter = ",";
+
+            List<BrandValuesParser> brandValues = new ArrayList<>();
+
+            while ((line = bufferedReader.readLine()) != null) {
+
+
+                String[] values = line.split(specialCharacter);
+
+                BrandValuesParser valuesBrand = new BrandValuesParser();
+
+
+                String date = valuesBrand.Date(values[0]);
+                String brand = valuesBrand.Brand(values[1]);
+                String country = valuesBrand.Country(values[2]);
+                String value = valuesBrand.Brand(values[3]);
+                String department = valuesBrand.Department(values[4]);
+                System.out.println(date+brand+country+value+department);
+
+
+
+
+
+
+            }
+
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+    }
 }

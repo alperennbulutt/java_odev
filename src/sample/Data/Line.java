@@ -1,4 +1,4 @@
-package sample;
+package sample.Data;
 
 public class Line {
     //Feel free to add other necessary variables

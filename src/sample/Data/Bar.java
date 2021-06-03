@@ -1,4 +1,4 @@
-package sample;
+package sample.Data;
 
 public class Bar implements Comparable <Bar>{
     //Feel free to add other necessary variables

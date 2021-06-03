@@ -1,4 +1,4 @@
-package sample;
+package sample.View;
 
 
 public abstract class Chart  {
