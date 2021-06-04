@@ -4,9 +4,7 @@ module java.odev {
     requires javafx.graphics;
     requires java.xml;
     requires  java.base;
-
     opens sample;
-
     opens sample.View;
     opens sample.Data;
     opens sample.Model;

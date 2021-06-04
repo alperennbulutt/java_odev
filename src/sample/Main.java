@@ -35,13 +35,12 @@ public class Main extends Application {
         // reading country populations
         getData.GetCountryPopulation();
 
+
         // reading Brand Values
         getData.GetBrandValue();
 
 
-
         // reading City Populations values
-
          getData.GetCityPopulations();
 
 

@@ -1,39 +1,41 @@
 package sample.Data;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
-
 public class CityPopulationsParser {
-    Scanner scanner;
 
-    public void openFileCity(){
-        try {
-            scanner=new Scanner(new File("city_populations.txt"));
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-            System.out.println("Dosya Bulunamadı!");
-        }
+    private String year;
+    private String city;
+    private String country;
+    private String population;
+    private String continent;
 
+
+    public String Year(String year) {
+        this.year = year;
+        return year;
     }
 
-    public void readFileCity(){
-        while (scanner.hasNextLine()){
 
-            String year= scanner.nextLine();
-            String city=scanner.nextLine();
-            String country=scanner.nextLine();
-            String population= scanner.nextLine();
-            String continent=scanner.nextLine();
-
-            System.out.println(year +  city + country  + population + continent);
-
-        }
-
+    public String City(String city) {
+        this.city = city;
+        return city;
     }
 
-    public void closeFileCity(){
-        scanner.close();
 
+    public String Country(String country) {
+        this.country = country;
+        return country;
     }
+
+    public String Population(String population) {
+       this.population = population;
+       return population;
+    }
+
+
+    public String Continent(String continent) {
+        this.continent = continent;
+        return continent;
+    }
+
+
 }

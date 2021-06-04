@@ -9,13 +9,13 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.time.Year;
 import java.util.ArrayList;
 import java.util.List;
 
 
 
 public class GetData {
-    //
 
 
     public static void GetCountryPopulation() {
@@ -75,23 +75,24 @@ public class GetData {
 
             String specialCharacter = ",";
 
-            List<BrandValuesParser> brandValues = new ArrayList<>();
 
             while ((line = bufferedReader.readLine()) != null) {
 
 
-                String[] values = line.split(specialCharacter);
+                String[] brandValues = line.split(specialCharacter);
 
                 BrandValuesParser valuesBrand = new BrandValuesParser();
 
 
-                String date = valuesBrand.Date(values[0]);
-                String brand = valuesBrand.Brand(values[1]);
-                String country = valuesBrand.Country(values[2]);
-                String value = valuesBrand.Brand(values[3]);
-                String department = valuesBrand.Department(values[4]);
-                System.out.println(date+brand+country+value+department);
+                if(brandValues.length==5) {
+                    String date = valuesBrand.Date(brandValues[0]);
+                    String brand = valuesBrand.Brand(brandValues[1]);
+                    String country = valuesBrand.Country(brandValues[2]);
+                    String value = valuesBrand.Value(brandValues[3]);
+                    String department = valuesBrand.Department(brandValues[4]);
+                    System.out.println(date + " " + brand + " " + country + " " + value + " " + department);
 
+                }
 
             }
 
@@ -112,33 +113,27 @@ public class GetData {
 
             String specialCharacter = ",";
 
-            List<BrandValuesParser> brandValues = new ArrayList<>();
 
             while ((line = bufferedReader.readLine()) != null) {
 
 
-                String[] values = line.split(specialCharacter);
+                String[] cityValues = line.split(specialCharacter);
 
-                BrandValuesParser valuesBrand = new BrandValuesParser();
-
-
-                String date = valuesBrand.Date(values[0]);
-                String brand = valuesBrand.Brand(values[1]);
-                String country = valuesBrand.Country(values[2]);
-                String value = valuesBrand.Brand(values[3]);
-                String department = valuesBrand.Department(values[4]);
-                System.out.println(date+brand+country+value+department);
+                CityPopulationsParser populationCity = new CityPopulationsParser();
 
 
-
-
-
+                if(cityValues.length==5) {
+                    String year = populationCity.Year(cityValues[0]);
+                    String city = populationCity.City(cityValues[1]);
+                    String country = populationCity.Country(cityValues[2]);
+                    String population = populationCity.Population(cityValues[3]);
+                    String continent = populationCity.Continent(cityValues[4]);
+                    System.out.println(year + " " + city + " " + country + " " + population + " " + continent);
+                }
 
             }
 
 
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

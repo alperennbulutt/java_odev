@@ -5,7 +5,7 @@ public class BrandValuesParser {
    private String date;
    private String brand;
    private String country;
-   private int value;
+   private String value;
    private String department;
 
 
@@ -26,6 +26,11 @@ public class BrandValuesParser {
         return country;
     }
 
+
+    public String Value(String value) {
+        this.value = value;
+        return value;
+    }
 
 
 
